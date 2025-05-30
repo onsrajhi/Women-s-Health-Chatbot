@@ -1,0 +1,230 @@
+{
+    "topics": [
+      {
+        "title": "Safer Sex Practices & Contraception",
+        "qa": [
+          {
+            "question": "What are the most effective safer sex practices?",
+            "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
+          },
+          {
+            "question": "How do condoms help prevent STIs?",
+            "answer": "Condoms act as a barrier to prevent exchange of bodily fluids, reducing transmission of many STIs."
+          },
+          {
+            "question": "What types of contraception are available?",
+            "answer": "Options include hormonal pills, IUDs, implants, condoms, diaphragms, and fertility awareness methods."
+          },
+          {
+            "question": "Can contraception prevent STIs?",
+            "answer": "Only barrier methods like condoms provide STI protection; hormonal contraceptives prevent pregnancy but not infections."
+          },
+          {
+            "question": "What is dual protection?",
+            "answer": "Using condoms along with another contraceptive method for both pregnancy and STI prevention."
+          },
+          {
+            "question": "Are dental dams effective for safer oral sex?",
+            "answer": "Yes, dental dams reduce STI transmission risk during oral sex."
+          },
+          {
+            "question": "How important is communication in safer sex?",
+            "answer": "Discussing STI status, contraception, and consent openly with partners improves safety."
+          },
+          {
+            "question": "Can you get STIs from oral sex?",
+            "answer": "Yes, many STIs can be transmitted through oral sex."
+          },
+          {
+            "question": "What should I do if a condom breaks during sex?",
+            "answer": "Stop, withdraw carefully, consider emergency contraception and get tested for STIs if needed."
+          },
+          {
+            "question": "Is abstinence the only 100% effective method to prevent STIs?",
+            "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
+          }
+        ]
+      },
+      {
+        "title": "Common STIs (Chlamydia, HPV, Herpes, etc.)",
+        "qa": [
+          {
+            "question": "What is chlamydia and how is it transmitted?",
+            "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
+          },
+          {
+            "question": "What are symptoms of chlamydia?",
+            "answer": "Often asymptomatic, but can cause pain during urination, discharge, or pelvic pain."
+          },
+          {
+            "question": "What is HPV and why is it important?",
+            "answer": "Human papillomavirus is a common virus that can cause genital warts and some cancers."
+          },
+          {
+            "question": "Can HPV be prevented?",
+            "answer": "Yes, vaccination and safer sex reduce the risk."
+          },
+          {
+            "question": "What is herpes and how does it present?",
+            "answer": "Herpes simplex virus causes painful blisters or sores on or around the genitals or mouth."
+          },
+          {
+            "question": "Can herpes be cured?",
+            "answer": "No cure exists, but antiviral medications help manage outbreaks."
+          },
+          {
+            "question": "How are STIs diagnosed?",
+            "answer": "Through physical exams, swabs, urine tests, or blood tests depending on the infection."
+          },
+          {
+            "question": "Can STIs be transmitted when symptoms are not present?",
+            "answer": "Yes, many STIs can spread even without visible symptoms."
+          },
+          {
+            "question": "What happens if STIs are left untreated?",
+            "answer": "Untreated STIs can cause serious health problems including infertility and increased HIV risk."
+          },
+          {
+            "question": "Are all STIs curable?",
+            "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
+          }
+        ]
+      },
+      {
+        "title": "Symptoms of Vaginal Infections (Yeast Infections, Bacterial Vaginosis)",
+        "qa": [
+          {
+            "question": "What are common symptoms of a yeast infection?",
+            "answer": "Itching, thick white discharge, redness, and irritation."
+          },
+          {
+            "question": "What causes bacterial vaginosis (BV)?",
+            "answer": "An imbalance of normal vaginal bacteria leads to BV."
+          },
+          {
+            "question": "How can you tell the difference between yeast infection and BV?",
+            "answer": "Yeast infection usually has thick, white discharge; BV causes thin, grayish discharge with fishy odor."
+          },
+          {
+            "question": "Are vaginal infections contagious?",
+            "answer": "Yeast infections are usually not sexually transmitted; BV is linked to sexual activity but not classified as an STI."
+          },
+          {
+            "question": "How are yeast infections treated?",
+            "answer": "Antifungal creams or oral medications prescribed by a healthcare provider."
+          },
+          {
+            "question": "How is bacterial vaginosis treated?",
+            "answer": "Antibiotics such as metronidazole or clindamycin."
+          },
+          {
+            "question": "Can vaginal infections affect pregnancy?",
+            "answer": "Yes, untreated infections can increase risks of complications."
+          },
+          {
+            "question": "How can vaginal infections be prevented?",
+            "answer": "Good hygiene, avoiding irritants, wearing breathable cotton underwear, and safe sex practices."
+          },
+          {
+            "question": "Should I see a doctor if I have vaginal symptoms?",
+            "answer": "Yes, to get proper diagnosis and treatment."
+          },
+          {
+            "question": "Can vaginal infections recur?",
+            "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
+          }
+        ]
+      },
+      {
+        "title": "When to Get STI Tested",
+        "qa": [
+          {
+            "question": "When should I get tested for STIs?",
+            "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
+          },
+          {
+            "question": "How often should sexually active people get tested?",
+            "answer": "At least once a year or more frequently based on risk factors."
+          },
+          {
+            "question": "Can I get tested even without symptoms?",
+            "answer": "Yes, many STIs can be asymptomatic but still contagious."
+          },
+          {
+            "question": "Where can I get tested for STIs?",
+            "answer": "Healthcare providers, clinics, sexual health centers, and some pharmacies."
+          },
+          {
+            "question": "Are STI tests confidential?",
+            "answer": "Yes, most testing sites maintain confidentiality."
+          },
+          {
+            "question": "What types of samples are used for STI testing?",
+            "answer": "Urine, blood, swabs from genital, oral, or rectal areas depending on the test."
+          },
+          {
+            "question": "How long does it take to get STI test results?",
+            "answer": "Results may take from a few days to a week."
+          },
+          {
+            "question": "What happens if I test positive for an STI?",
+            "answer": "You will receive treatment options and counseling on preventing transmission."
+          },
+          {
+            "question": "Should my partner get tested too?",
+            "answer": "Yes, partners should get tested and treated to avoid reinfection."
+          },
+          {
+            "question": "Can I get tested anonymously?",
+            "answer": "Some clinics offer anonymous testing to protect privacy."
+          }
+        ]
+      },
+      {
+        "title": "HPV Vaccination Benefits",
+        "qa": [
+          {
+            "question": "What is the HPV vaccine?",
+            "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
+          },
+          {
+            "question": "Who should get the HPV vaccine?",
+            "answer": "Recommended for preteens (ages 11-12) but can be given up to age 26 or beyond."
+          },
+          {
+            "question": "Does the HPV vaccine protect against all HPV types?",
+            "answer": "No, it targets the most common high-risk types causing cancers and warts."
+          },
+          {
+            "question": "Is the HPV vaccine safe?",
+            "answer": "Yes, it has a strong safety record with mild side effects like soreness."
+          },
+          {
+            "question": "How many doses of HPV vaccine are needed?",
+            "answer": "Usually 2 or 3 doses depending on age at initial vaccination."
+          },
+          {
+            "question": "Can adults get the HPV vaccine?",
+            "answer": "Yes, adults up to age 45 may benefit, especially if not previously vaccinated."
+          },
+          {
+            "question": "Does the HPV vaccine protect against existing infections?",
+            "answer": "No, it prevents new infections but does not treat existing ones."
+          },
+          {
+            "question": "How effective is the HPV vaccine?",
+            "answer": "Highly effective in preventing targeted HPV infections and related cancers."
+          },
+          {
+            "question": "Are boys and men recommended to get the HPV vaccine?",
+            "answer": "Yes, to prevent genital warts and some cancers."
+          },
+          {
+            "question": "Can I still get cervical cancer after vaccination?",
+            "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
+          }
+        ]
+      }
+    ]
+  }
+  
