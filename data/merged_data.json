@@ -1,0 +1,2074 @@
+{
+  "topics": [
+    {
+      "title": "Safer Sex Practices & Contraception",
+      "qa": [
+        {
+          "question": "What are the most effective safer sex practices?",
+          "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
+        },
+        {
+          "question": "How do condoms help prevent STIs?",
+          "answer": "Condoms act as a barrier to prevent exchange of bodily fluids, reducing transmission of many STIs."
+        },
+        {
+          "question": "What types of contraception are available?",
+          "answer": "Options include hormonal pills, IUDs, implants, condoms, diaphragms, and fertility awareness methods."
+        },
+        {
+          "question": "Can contraception prevent STIs?",
+          "answer": "Only barrier methods like condoms provide STI protection; hormonal contraceptives prevent pregnancy but not infections."
+        },
+        {
+          "question": "What is dual protection?",
+          "answer": "Using condoms along with another contraceptive method for both pregnancy and STI prevention."
+        },
+        {
+          "question": "Are dental dams effective for safer oral sex?",
+          "answer": "Yes, dental dams reduce STI transmission risk during oral sex."
+        },
+        {
+          "question": "How important is communication in safer sex?",
+          "answer": "Discussing STI status, contraception, and consent openly with partners improves safety."
+        },
+        {
+          "question": "Can you get STIs from oral sex?",
+          "answer": "Yes, many STIs can be transmitted through oral sex."
+        },
+        {
+          "question": "What should I do if a condom breaks during sex?",
+          "answer": "Stop, withdraw carefully, consider emergency contraception and get tested for STIs if needed."
+        },
+        {
+          "question": "Is abstinence the only 100% effective method to prevent STIs?",
+          "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
+        }
+      ]
+    },
+    {
+      "title": "Common STIs (Chlamydia, HPV, Herpes, etc.)",
+      "qa": [
+        {
+          "question": "What is chlamydia and how is it transmitted?",
+          "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
+        },
+        {
+          "question": "What are symptoms of chlamydia?",
+          "answer": "Often asymptomatic, but can cause pain during urination, discharge, or pelvic pain."
+        },
+        {
+          "question": "What is HPV and why is it important?",
+          "answer": "Human papillomavirus is a common virus that can cause genital warts and some cancers."
+        },
+        {
+          "question": "Can HPV be prevented?",
+          "answer": "Yes, vaccination and safer sex reduce the risk."
+        },
+        {
+          "question": "What is herpes and how does it present?",
+          "answer": "Herpes simplex virus causes painful blisters or sores on or around the genitals or mouth."
+        },
+        {
+          "question": "Can herpes be cured?",
+          "answer": "No cure exists, but antiviral medications help manage outbreaks."
+        },
+        {
+          "question": "How are STIs diagnosed?",
+          "answer": "Through physical exams, swabs, urine tests, or blood tests depending on the infection."
+        },
+        {
+          "question": "Can STIs be transmitted when symptoms are not present?",
+          "answer": "Yes, many STIs can spread even without visible symptoms."
+        },
+        {
+          "question": "What happens if STIs are left untreated?",
+          "answer": "Untreated STIs can cause serious health problems including infertility and increased HIV risk."
+        },
+        {
+          "question": "Are all STIs curable?",
+          "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
+        }
+      ]
+    },
+    {
+      "title": "Symptoms of Vaginal Infections (Yeast Infections, Bacterial Vaginosis)",
+      "qa": [
+        {
+          "question": "What are common symptoms of a yeast infection?",
+          "answer": "Itching, thick white discharge, redness, and irritation."
+        },
+        {
+          "question": "What causes bacterial vaginosis (BV)?",
+          "answer": "An imbalance of normal vaginal bacteria leads to BV."
+        },
+        {
+          "question": "How can you tell the difference between yeast infection and BV?",
+          "answer": "Yeast infection usually has thick, white discharge; BV causes thin, grayish discharge with fishy odor."
+        },
+        {
+          "question": "Are vaginal infections contagious?",
+          "answer": "Yeast infections are usually not sexually transmitted; BV is linked to sexual activity but not classified as an STI."
+        },
+        {
+          "question": "How are yeast infections treated?",
+          "answer": "Antifungal creams or oral medications prescribed by a healthcare provider."
+        },
+        {
+          "question": "How is bacterial vaginosis treated?",
+          "answer": "Antibiotics such as metronidazole or clindamycin."
+        },
+        {
+          "question": "Can vaginal infections affect pregnancy?",
+          "answer": "Yes, untreated infections can increase risks of complications."
+        },
+        {
+          "question": "How can vaginal infections be prevented?",
+          "answer": "Good hygiene, avoiding irritants, wearing breathable cotton underwear, and safe sex practices."
+        },
+        {
+          "question": "Should I see a doctor if I have vaginal symptoms?",
+          "answer": "Yes, to get proper diagnosis and treatment."
+        },
+        {
+          "question": "Can vaginal infections recur?",
+          "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
+        }
+      ]
+    },
+    {
+      "title": "When to Get STI Tested",
+      "qa": [
+        {
+          "question": "When should I get tested for STIs?",
+          "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
+        },
+        {
+          "question": "How often should sexually active people get tested?",
+          "answer": "At least once a year or more frequently based on risk factors."
+        },
+        {
+          "question": "Can I get tested even without symptoms?",
+          "answer": "Yes, many STIs can be asymptomatic but still contagious."
+        },
+        {
+          "question": "Where can I get tested for STIs?",
+          "answer": "Healthcare providers, clinics, sexual health centers, and some pharmacies."
+        },
+        {
+          "question": "Are STI tests confidential?",
+          "answer": "Yes, most testing sites maintain confidentiality."
+        },
+        {
+          "question": "What types of samples are used for STI testing?",
+          "answer": "Urine, blood, swabs from genital, oral, or rectal areas depending on the test."
+        },
+        {
+          "question": "How long does it take to get STI test results?",
+          "answer": "Results may take from a few days to a week."
+        },
+        {
+          "question": "What happens if I test positive for an STI?",
+          "answer": "You will receive treatment options and counseling on preventing transmission."
+        },
+        {
+          "question": "Should my partner get tested too?",
+          "answer": "Yes, partners should get tested and treated to avoid reinfection."
+        },
+        {
+          "question": "Can I get tested anonymously?",
+          "answer": "Some clinics offer anonymous testing to protect privacy."
+        }
+      ]
+    },
+    {
+      "title": "HPV Vaccination Benefits",
+      "qa": [
+        {
+          "question": "What is the HPV vaccine?",
+          "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
+        },
+        {
+          "question": "Who should get the HPV vaccine?",
+          "answer": "Recommended for preteens (ages 11-12) but can be given up to age 26 or beyond."
+        },
+        {
+          "question": "Does the HPV vaccine protect against all HPV types?",
+          "answer": "No, it targets the most common high-risk types causing cancers and warts."
+        },
+        {
+          "question": "Is the HPV vaccine safe?",
+          "answer": "Yes, it has a strong safety record with mild side effects like soreness."
+        },
+        {
+          "question": "How many doses of HPV vaccine are needed?",
+          "answer": "Usually 2 or 3 doses depending on age at initial vaccination."
+        },
+        {
+          "question": "Can adults get the HPV vaccine?",
+          "answer": "Yes, adults up to age 45 may benefit, especially if not previously vaccinated."
+        },
+        {
+          "question": "Does the HPV vaccine protect against existing infections?",
+          "answer": "No, it prevents new infections but does not treat existing ones."
+        },
+        {
+          "question": "How effective is the HPV vaccine?",
+          "answer": "Highly effective in preventing targeted HPV infections and related cancers."
+        },
+        {
+          "question": "Are boys and men recommended to get the HPV vaccine?",
+          "answer": "Yes, to prevent genital warts and some cancers."
+        },
+        {
+          "question": "Can I still get cervical cancer after vaccination?",
+          "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
+        }
+      ]
+    },
+    {
+      "title": "Safer Sex Practices & Contraception",
+      "qa": [
+        {
+          "question": "What are the most effective safer sex practices?",
+          "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
+        },
+        {
+          "question": "How do condoms help prevent STIs?",
+          "answer": "Condoms act as a barrier to prevent exchange of bodily fluids, reducing transmission of many STIs."
+        },
+        {
+          "question": "What types of contraception are available?",
+          "answer": "Options include hormonal pills, IUDs, implants, condoms, diaphragms, and fertility awareness methods."
+        },
+        {
+          "question": "Can contraception prevent STIs?",
+          "answer": "Only barrier methods like condoms provide STI protection; hormonal contraceptives prevent pregnancy but not infections."
+        },
+        {
+          "question": "What is dual protection?",
+          "answer": "Using condoms along with another contraceptive method for both pregnancy and STI prevention."
+        },
+        {
+          "question": "Are dental dams effective for safer oral sex?",
+          "answer": "Yes, dental dams reduce STI transmission risk during oral sex."
+        },
+        {
+          "question": "How important is communication in safer sex?",
+          "answer": "Discussing STI status, contraception, and consent openly with partners improves safety."
+        },
+        {
+          "question": "Can you get STIs from oral sex?",
+          "answer": "Yes, many STIs can be transmitted through oral sex."
+        },
+        {
+          "question": "What should I do if a condom breaks during sex?",
+          "answer": "Stop, withdraw carefully, consider emergency contraception and get tested for STIs if needed."
+        },
+        {
+          "question": "Is abstinence the only 100% effective method to prevent STIs?",
+          "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
+        }
+      ]
+    },
+    {
+      "title": "Common STIs (Chlamydia, HPV, Herpes, etc.)",
+      "qa": [
+        {
+          "question": "What is chlamydia and how is it transmitted?",
+          "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
+        },
+        {
+          "question": "What are symptoms of chlamydia?",
+          "answer": "Often asymptomatic, but can cause pain during urination, discharge, or pelvic pain."
+        },
+        {
+          "question": "What is HPV and why is it important?",
+          "answer": "Human papillomavirus is a common virus that can cause genital warts and some cancers."
+        },
+        {
+          "question": "Can HPV be prevented?",
+          "answer": "Yes, vaccination and safer sex reduce the risk."
+        },
+        {
+          "question": "What is herpes and how does it present?",
+          "answer": "Herpes simplex virus causes painful blisters or sores on or around the genitals or mouth."
+        },
+        {
+          "question": "Can herpes be cured?",
+          "answer": "No cure exists, but antiviral medications help manage outbreaks."
+        },
+        {
+          "question": "How are STIs diagnosed?",
+          "answer": "Through physical exams, swabs, urine tests, or blood tests depending on the infection."
+        },
+        {
+          "question": "Can STIs be transmitted when symptoms are not present?",
+          "answer": "Yes, many STIs can spread even without visible symptoms."
+        },
+        {
+          "question": "What happens if STIs are left untreated?",
+          "answer": "Untreated STIs can cause serious health problems including infertility and increased HIV risk."
+        },
+        {
+          "question": "Are all STIs curable?",
+          "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
+        }
+      ]
+    },
+    {
+      "title": "Symptoms of Vaginal Infections (Yeast Infections, Bacterial Vaginosis)",
+      "qa": [
+        {
+          "question": "What are common symptoms of a yeast infection?",
+          "answer": "Itching, thick white discharge, redness, and irritation."
+        },
+        {
+          "question": "What causes bacterial vaginosis (BV)?",
+          "answer": "An imbalance of normal vaginal bacteria leads to BV."
+        },
+        {
+          "question": "How can you tell the difference between yeast infection and BV?",
+          "answer": "Yeast infection usually has thick, white discharge; BV causes thin, grayish discharge with fishy odor."
+        },
+        {
+          "question": "Are vaginal infections contagious?",
+          "answer": "Yeast infections are usually not sexually transmitted; BV is linked to sexual activity but not classified as an STI."
+        },
+        {
+          "question": "How are yeast infections treated?",
+          "answer": "Antifungal creams or oral medications prescribed by a healthcare provider."
+        },
+        {
+          "question": "How is bacterial vaginosis treated?",
+          "answer": "Antibiotics such as metronidazole or clindamycin."
+        },
+        {
+          "question": "Can vaginal infections affect pregnancy?",
+          "answer": "Yes, untreated infections can increase risks of complications."
+        },
+        {
+          "question": "How can vaginal infections be prevented?",
+          "answer": "Good hygiene, avoiding irritants, wearing breathable cotton underwear, and safe sex practices."
+        },
+        {
+          "question": "Should I see a doctor if I have vaginal symptoms?",
+          "answer": "Yes, to get proper diagnosis and treatment."
+        },
+        {
+          "question": "Can vaginal infections recur?",
+          "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
+        }
+      ]
+    },
+    {
+      "title": "When to Get STI Tested",
+      "qa": [
+        {
+          "question": "When should I get tested for STIs?",
+          "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
+        },
+        {
+          "question": "How often should sexually active people get tested?",
+          "answer": "At least once a year or more frequently based on risk factors."
+        },
+        {
+          "question": "Can I get tested even without symptoms?",
+          "answer": "Yes, many STIs can be asymptomatic but still contagious."
+        },
+        {
+          "question": "Where can I get tested for STIs?",
+          "answer": "Healthcare providers, clinics, sexual health centers, and some pharmacies."
+        },
+        {
+          "question": "Are STI tests confidential?",
+          "answer": "Yes, most testing sites maintain confidentiality."
+        },
+        {
+          "question": "What types of samples are used for STI testing?",
+          "answer": "Urine, blood, swabs from genital, oral, or rectal areas depending on the test."
+        },
+        {
+          "question": "How long does it take to get STI test results?",
+          "answer": "Results may take from a few days to a week."
+        },
+        {
+          "question": "What happens if I test positive for an STI?",
+          "answer": "You will receive treatment options and counseling on preventing transmission."
+        },
+        {
+          "question": "Should my partner get tested too?",
+          "answer": "Yes, partners should get tested and treated to avoid reinfection."
+        },
+        {
+          "question": "Can I get tested anonymously?",
+          "answer": "Some clinics offer anonymous testing to protect privacy."
+        }
+      ]
+    },
+    {
+      "title": "HPV Vaccination Benefits",
+      "qa": [
+        {
+          "question": "What is the HPV vaccine?",
+          "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
+        },
+        {
+          "question": "Who should get the HPV vaccine?",
+          "answer": "Recommended for preteens (ages 11-12) but can be given up to age 26 or beyond."
+        },
+        {
+          "question": "Does the HPV vaccine protect against all HPV types?",
+          "answer": "No, it targets the most common high-risk types causing cancers and warts."
+        },
+        {
+          "question": "Is the HPV vaccine safe?",
+          "answer": "Yes, it has a strong safety record with mild side effects like soreness."
+        },
+        {
+          "question": "How many doses of HPV vaccine are needed?",
+          "answer": "Usually 2 or 3 doses depending on age at initial vaccination."
+        },
+        {
+          "question": "Can adults get the HPV vaccine?",
+          "answer": "Yes, adults up to age 45 may benefit, especially if not previously vaccinated."
+        },
+        {
+          "question": "Does the HPV vaccine protect against existing infections?",
+          "answer": "No, it prevents new infections but does not treat existing ones."
+        },
+        {
+          "question": "How effective is the HPV vaccine?",
+          "answer": "Highly effective in preventing targeted HPV infections and related cancers."
+        },
+        {
+          "question": "Are boys and men recommended to get the HPV vaccine?",
+          "answer": "Yes, to prevent genital warts and some cancers."
+        },
+        {
+          "question": "Can I still get cervical cancer after vaccination?",
+          "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
+        }
+      ]
+    },
+    {
+      "title": "Birth Control Options (pills, IUDs, implants, etc.)",
+      "qa": [
+        {
+          "question": "What are the most common types of birth control?",
+          "answer": "Options include pills, patches, IUDs, implants, condoms, diaphragms, and sterilization."
+        },
+        {
+          "question": "How effective is the birth control pill?",
+          "answer": "When taken correctly, it's about 99% effective at preventing pregnancy."
+        },
+        {
+          "question": "What is an IUD and how does it work?",
+          "answer": "An IUD is a small T-shaped device placed in the uterus that prevents pregnancy for 3–10 years."
+        },
+        {
+          "question": "Are implants a good long-term option?",
+          "answer": "Yes, implants (like Nexplanon) are effective for up to 3 years and are over 99% reliable."
+        },
+        {
+          "question": "Can I stop using birth control whenever I want?",
+          "answer": "Yes, but discuss with your doctor about your future plans and potential effects on fertility."
+        },
+        {
+          "question": "Are there side effects to using birth control?",
+          "answer": "Possible side effects include nausea, breast tenderness, mood changes, and irregular bleeding."
+        },
+        {
+          "question": "Does birth control protect against STIs?",
+          "answer": "No, only condoms protect against sexually transmitted infections (STIs)."
+        },
+        {
+          "question": "How do I choose the right birth control method?",
+          "answer": "Consider effectiveness, convenience, side effects, and personal health goals. Talk to your doctor."
+        },
+        {
+          "question": "Is emergency contraception a type of birth control?",
+          "answer": "Yes, it's a backup method to prevent pregnancy after unprotected sex."
+        },
+        {
+          "question": "Can birth control help with period problems?",
+          "answer": "Yes, hormonal methods can regulate cycles, reduce cramps, and lighten periods."
+        }
+      ]
+    },
+    {
+      "title": "PCOS (Polycystic Ovary Syndrome) & Symptoms",
+      "qa": [
+        {
+          "question": "What is PCOS?",
+          "answer": "Polycystic Ovary Syndrome (PCOS) is a hormonal disorder causing irregular periods and cysts on the ovaries."
+        },
+        {
+          "question": "What are common symptoms of PCOS?",
+          "answer": "Irregular periods, acne, excess hair growth (hirsutism), and weight gain are common."
+        },
+        {
+          "question": "What causes PCOS?",
+          "answer": "The exact cause isn’t known, but it involves hormonal imbalances and insulin resistance."
+        },
+        {
+          "question": "Can PCOS affect fertility?",
+          "answer": "Yes, it can make it harder to get pregnant due to irregular ovulation."
+        },
+        {
+          "question": "How is PCOS diagnosed?",
+          "answer": "Diagnosis usually includes blood tests, a physical exam, and sometimes an ultrasound."
+        },
+        {
+          "question": "Can PCOS be managed naturally?",
+          "answer": "Healthy diet, regular exercise, and weight management can help manage symptoms."
+        },
+        {
+          "question": "What medications can help with PCOS?",
+          "answer": "Birth control pills, anti-androgen medications, and metformin are often used."
+        },
+        {
+          "question": "Does PCOS increase my risk for other health issues?",
+          "answer": "Yes, it raises the risk for type 2 diabetes, high blood pressure, and heart disease."
+        },
+        {
+          "question": "Is hair loss common in PCOS?",
+          "answer": "Yes, some women experience thinning hair due to hormonal imbalances."
+        },
+        {
+          "question": "Can PCOS go away on its own?",
+          "answer": "No, but symptoms can be managed with treatment and lifestyle changes."
+        }
+      ]
+    },
+    {
+      "title": "Endometriosis Basics",
+      "qa": [
+        {
+          "question": "What is endometriosis?",
+          "answer": "Endometriosis is a condition where tissue similar to the uterine lining grows outside the uterus."
+        },
+        {
+          "question": "What are the main symptoms of endometriosis?",
+          "answer": "Painful periods, pelvic pain, pain during sex, and infertility are common symptoms."
+        },
+        {
+          "question": "How common is endometriosis?",
+          "answer": "It affects about 1 in 10 people assigned female at birth."
+        },
+        {
+          "question": "Can endometriosis affect fertility?",
+          "answer": "Yes, it can make it harder to conceive due to inflammation and scarring."
+        },
+        {
+          "question": "What causes endometriosis?",
+          "answer": "The exact cause is unknown but may involve genetics, immune system issues, and retrograde menstruation."
+        },
+        {
+          "question": "How is endometriosis diagnosed?",
+          "answer": "Diagnosis is usually through laparoscopy, a minimally invasive surgery."
+        },
+        {
+          "question": "Is there a cure for endometriosis?",
+          "answer": "There’s no cure, but symptoms can be managed with medication, surgery, and lifestyle changes."
+        },
+        {
+          "question": "Can endometriosis pain be treated?",
+          "answer": "Yes, pain relievers, hormonal therapy, and surgery can help."
+        },
+        {
+          "question": "Does endometriosis go away after menopause?",
+          "answer": "Symptoms often improve after menopause when estrogen levels drop."
+        },
+        {
+          "question": "Can diet help manage endometriosis?",
+          "answer": "A balanced diet with anti-inflammatory foods may help reduce symptoms."
+        }
+      ]
+    },
+    {
+      "title": "Fertility Awareness (Ovulation Tracking, Fertile Window)",
+      "qa": [
+        {
+          "question": "What is fertility awareness?",
+          "answer": "It's tracking your menstrual cycle to identify your most fertile days."
+        },
+        {
+          "question": "How can I track ovulation?",
+          "answer": "Use methods like tracking basal body temperature, cervical mucus, and ovulation predictor kits."
+        },
+        {
+          "question": "What is the fertile window?",
+          "answer": "The fertile window includes the 5 days before ovulation and the day of ovulation."
+        },
+        {
+          "question": "How does cervical mucus change during ovulation?",
+          "answer": "It becomes clear, slippery, and stretchy, similar to egg whites."
+        },
+        {
+          "question": "Can irregular cycles make tracking harder?",
+          "answer": "Yes, tracking is less predictable with irregular cycles."
+        },
+        {
+          "question": "Do apps help with fertility tracking?",
+          "answer": "Yes, fertility apps can help track and predict fertile days."
+        },
+        {
+          "question": "How accurate are ovulation predictor kits?",
+          "answer": "They’re about 99% accurate when used correctly."
+        },
+        {
+          "question": "Is fertility awareness reliable for contraception?",
+          "answer": "It can be, but it requires careful tracking and daily awareness."
+        },
+        {
+          "question": "How long does the egg live after ovulation?",
+          "answer": "About 12–24 hours, so timing sex around ovulation is key for conception."
+        },
+        {
+          "question": "Does stress affect fertility awareness tracking?",
+          "answer": "Yes, stress and lifestyle changes can affect your cycle and tracking accuracy."
+        }
+      ]
+    },
+    {
+      "title": "Miscarriage Support & Resources",
+      "qa": [
+        {
+          "question": "What is a miscarriage?",
+          "answer": "A miscarriage is the loss of a pregnancy before 20 weeks."
+        },
+        {
+          "question": "What are common causes of miscarriage?",
+          "answer": "Most are due to chromosomal issues in the embryo and not something the parents did."
+        },
+        {
+          "question": "What are signs of a miscarriage?",
+          "answer": "Bleeding, cramping, and passing tissue from the vagina are common signs."
+        },
+        {
+          "question": "Can miscarriage be prevented?",
+          "answer": "Often, it can’t be prevented, but managing health conditions can reduce risk."
+        },
+        {
+          "question": "How is miscarriage diagnosed?",
+          "answer": "Through ultrasound and blood tests to check for pregnancy loss."
+        },
+        {
+          "question": "What support is available after miscarriage?",
+          "answer": "Counseling, support groups, and talking to loved ones can help cope."
+        },
+        {
+          "question": "Can I try to get pregnant again after miscarriage?",
+          "answer": "Yes, most can try again after 1–3 menstrual cycles, depending on doctor advice."
+        },
+        {
+          "question": "Are future pregnancies at higher risk after miscarriage?",
+          "answer": "Most women go on to have healthy pregnancies after miscarriage."
+        },
+        {
+          "question": "Should I have medical care after a miscarriage?",
+          "answer": "Yes, follow-up care ensures your health and checks for complications."
+        },
+        {
+          "question": "Can I grieve in my own way after miscarriage?",
+          "answer": "Yes, everyone’s experience is unique. Allow yourself to feel and seek support as needed."
+        }
+      ]
+    },
+    {
+      "title": "Morning Sickness & Remedies",
+      "qa": [
+        {
+          "question": "What causes morning sickness?",
+          "answer": "Hormonal changes, especially increased hCG and estrogen, cause nausea during pregnancy."
+        },
+        {
+          "question": "When does morning sickness usually start?",
+          "answer": "It typically starts around 6 weeks of pregnancy and peaks around 9–10 weeks."
+        },
+        {
+          "question": "Is it normal to have morning sickness at night?",
+          "answer": "Yes, despite the name, morning sickness can happen anytime."
+        },
+        {
+          "question": "What are some natural remedies for morning sickness?",
+          "answer": "Eating small, frequent meals, ginger tea, vitamin B6, and acupressure bands can help."
+        },
+        {
+          "question": "Can dehydration make morning sickness worse?",
+          "answer": "Yes, staying hydrated can help reduce nausea and prevent complications."
+        },
+        {
+          "question": "Are there safe medications for morning sickness?",
+          "answer": "Yes, vitamin B6 supplements and doxylamine are often recommended. Talk to your doctor."
+        },
+        {
+          "question": "Is severe morning sickness dangerous?",
+          "answer": "Severe cases (hyperemesis gravidarum) can lead to dehydration and weight loss and require medical attention."
+        },
+        {
+          "question": "Can morning sickness harm my baby?",
+          "answer": "Mild morning sickness does not harm the baby. Severe cases need treatment."
+        },
+        {
+          "question": "Does morning sickness mean I’m having a girl?",
+          "answer": "No, there’s no scientific link between morning sickness severity and baby’s sex."
+        },
+        {
+          "question": "When should I see a doctor for morning sickness?",
+          "answer": "If you can’t keep any food or fluids down or are losing weight, contact your doctor."
+        }
+      ]
+    },
+    {
+      "title": "Foods to Avoid During Pregnancy",
+      "qa": [
+        {
+          "question": "What foods should I avoid completely during pregnancy?",
+          "answer": "Raw seafood, unpasteurized dairy, deli meats, raw eggs, and high-mercury fish like shark and swordfish."
+        },
+        {
+          "question": "Why should I avoid unpasteurized cheese?",
+          "answer": "They can carry listeria, which can harm your baby."
+        },
+        {
+          "question": "Are raw or undercooked eggs dangerous?",
+          "answer": "Yes, they can cause salmonella infection."
+        },
+        {
+          "question": "Can I eat sushi while pregnant?",
+          "answer": "It’s best to avoid raw sushi because of parasite and bacteria risks."
+        },
+        {
+          "question": "What about caffeine during pregnancy?",
+          "answer": "Keep it under 200 mg per day (about one 12-ounce coffee) to avoid risks."
+        },
+        {
+          "question": "Can I eat deli meats if they’re heated?",
+          "answer": "Yes, heating deli meats until steaming hot kills listeria."
+        },
+        {
+          "question": "Are herbal teas safe during pregnancy?",
+          "answer": "Some are safe (like ginger or peppermint), but avoid ones like licorice or ginseng without doctor approval."
+        },
+        {
+          "question": "What about artificial sweeteners?",
+          "answer": "Most are safe in moderation (like aspartame or sucralose), but avoid saccharin."
+        },
+        {
+          "question": "Can I eat soft-serve ice cream?",
+          "answer": "Avoid it from machines (risk of listeria), but commercially frozen soft-serve is typically safe."
+        },
+        {
+          "question": "Why should I avoid high-mercury fish?",
+          "answer": "Mercury can harm your baby’s brain and nervous system."
+        }
+      ]
+    },
+    {
+      "title": "Safe Medications in Pregnancy",
+      "qa": [
+        {
+          "question": "Is it safe to take acetaminophen while pregnant?",
+          "answer": "Yes, acetaminophen (Tylenol) is generally considered safe when used as directed."
+        },
+        {
+          "question": "Can I take ibuprofen while pregnant?",
+          "answer": "No, avoid ibuprofen and NSAIDs in the third trimester due to risks for the baby."
+        },
+        {
+          "question": "Are antacids safe for heartburn?",
+          "answer": "Yes, antacids like Tums are usually safe. Avoid those with high aluminum content."
+        },
+        {
+          "question": "What can I take for allergies during pregnancy?",
+          "answer": "Loratadine (Claritin) and cetirizine (Zyrtec) are generally safe. Always check with your doctor."
+        },
+        {
+          "question": "Are antibiotics safe if I have an infection?",
+          "answer": "Many antibiotics are safe in pregnancy. Your doctor will choose the best option."
+        },
+        {
+          "question": "Can I take cold medicine while pregnant?",
+          "answer": "Avoid decongestants like pseudoephedrine in the first trimester. Talk to your doctor for safe options."
+        },
+        {
+          "question": "Is it safe to take prenatal vitamins?",
+          "answer": "Yes! They’re recommended to support a healthy pregnancy."
+        },
+        {
+          "question": "Can I take herbal supplements?",
+          "answer": "Avoid herbal supplements without doctor approval, as many haven’t been proven safe."
+        },
+        {
+          "question": "What about probiotics?",
+          "answer": "Probiotics are generally considered safe but discuss with your doctor first."
+        },
+        {
+          "question": "Should I stop taking medications I was on before pregnancy?",
+          "answer": "Not necessarily. Talk to your doctor to adjust or continue medications safely."
+        }
+      ]
+    },
+    {
+      "title": "Postpartum Depression & Baby Blues",
+      "qa": [
+        {
+          "question": "What is the baby blues?",
+          "answer": "Mild mood swings, crying, and irritability that start a few days after birth and usually go away within 2 weeks."
+        },
+        {
+          "question": "What is postpartum depression?",
+          "answer": "More severe and long-lasting depression that affects your ability to care for yourself and your baby."
+        },
+        {
+          "question": "How common is postpartum depression?",
+          "answer": "About 10–15% of new moms experience it."
+        },
+        {
+          "question": "What are symptoms of postpartum depression?",
+          "answer": "Intense sadness, anxiety, loss of interest in activities, and trouble bonding with your baby."
+        },
+        {
+          "question": "Is it my fault if I have postpartum depression?",
+          "answer": "No! It’s a medical condition caused by hormonal shifts, stress, and genetics."
+        },
+        {
+          "question": "Can partners experience postpartum depression too?",
+          "answer": "Yes, partners can also experience depression after a baby’s birth."
+        },
+        {
+          "question": "What’s the difference between baby blues and postpartum depression?",
+          "answer": "Baby blues are temporary and mild, while postpartum depression is more intense and lasts longer."
+        },
+        {
+          "question": "When should I seek help for postpartum depression?",
+          "answer": "If feelings of sadness or anxiety don’t improve after 2 weeks or interfere with daily life, talk to your doctor."
+        },
+        {
+          "question": "Are treatments available for postpartum depression?",
+          "answer": "Yes, therapy, medication, and support groups can help you recover."
+        },
+        {
+          "question": "Can postpartum depression affect my baby?",
+          "answer": "Untreated depression can affect bonding and development. Seeking help can improve outcomes for both of you."
+        }
+      ]
+    },
+    {
+      "title": "Breastfeeding Tips and Challenges",
+      "qa": [
+        {
+          "question": "How often should I breastfeed my newborn?",
+          "answer": "Feed your baby 8–12 times in 24 hours, whenever they show hunger cues."
+        },
+        {
+          "question": "Does breastfeeding hurt at first?",
+          "answer": "It can be uncomfortable initially, but if it’s very painful, consult a lactation consultant."
+        },
+        {
+          "question": "What foods should I eat to support breastfeeding?",
+          "answer": "Eat a balanced diet rich in protein, whole grains, and veggies. Stay hydrated!"
+        },
+        {
+          "question": "Can I drink caffeine while breastfeeding?",
+          "answer": "Yes, up to 200–300 mg per day (about 1–2 cups of coffee) is considered safe."
+        },
+        {
+          "question": "How do I know if my baby is getting enough milk?",
+          "answer": "Look for 6–8 wet diapers a day, steady weight gain, and contentment after feeds."
+        },
+        {
+          "question": "What can I do about sore nipples?",
+          "answer": "Ensure a good latch, use lanolin cream, and let nipples air dry after feeding."
+        },
+        {
+          "question": "Is it normal for my milk supply to vary?",
+          "answer": "Yes, supply can fluctuate. Frequent nursing or pumping helps maintain it."
+        },
+        {
+          "question": "Can I breastfeed if I’m sick?",
+          "answer": "Yes, breastfeeding passes antibodies to your baby and is safe unless your doctor says otherwise."
+        },
+        {
+          "question": "What if I can’t breastfeed directly?",
+          "answer": "Pumping and bottle-feeding breast milk is a great option."
+        },
+        {
+          "question": "Should I wake my baby to feed?",
+          "answer": "In the first few weeks, yes, if they sleep longer than 3–4 hours to ensure enough milk intake."
+        }
+      ]
+    },
+    {
+      "title": "Postpartum Recovery (Physical and Mental)",
+      "qa": [
+        {
+          "question": "How long does postpartum recovery take?",
+          "answer": "It varies—physical healing can take 6–8 weeks, but full recovery can take months."
+        },
+        {
+          "question": "What are common physical changes after birth?",
+          "answer": "Vaginal soreness, bleeding, breast engorgement, and fatigue are normal."
+        },
+        {
+          "question": "How can I care for my perineum after birth?",
+          "answer": "Use ice packs, sitz baths, and pain relief medications as needed."
+        },
+        {
+          "question": "When can I start exercising after birth?",
+          "answer": "Light exercises like walking are fine once you feel up to it. For intense exercise, check with your doctor after 6 weeks."
+        },
+        {
+          "question": "Is hair loss normal postpartum?",
+          "answer": "Yes, postpartum hair shedding is common due to hormone changes."
+        },
+        {
+          "question": "When should I see a doctor for postpartum bleeding?",
+          "answer": "If you have heavy bleeding (soaking a pad in an hour), clots, or fever, call your doctor."
+        },
+        {
+          "question": "How can I manage postpartum mood changes?",
+          "answer": "Rest, talk to loved ones, and consider professional help if needed."
+        },
+        {
+          "question": "Can I have sex after giving birth?",
+          "answer": "Most doctors recommend waiting 6 weeks to allow healing, but listen to your body and comfort."
+        },
+        {
+          "question": "What can help with postpartum fatigue?",
+          "answer": "Prioritize rest, accept help, eat nutritious foods, and sleep when baby sleeps."
+        },
+        {
+          "question": "Is it normal to feel overwhelmed as a new parent?",
+          "answer": "Yes, it’s a big adjustment! Support from family, friends, and professionals can help."
+        }
+      ]
+    },
+    {
+      "title": "Stress Management & Self-Care",
+      "qa": [
+        {
+          "question": "What are effective ways to manage stress?",
+          "answer": "Practicing mindfulness, regular exercise, adequate sleep, deep breathing exercises, and setting healthy boundaries help manage stress."
+        },
+        {
+          "question": "How does chronic stress affect women's health?",
+          "answer": "Chronic stress can lead to headaches, high blood pressure, weakened immune system, anxiety, and menstrual irregularities."
+        },
+        {
+          "question": "What is self-care and why is it important?",
+          "answer": "Self-care involves activities that promote physical, emotional, and mental wellbeing; it helps prevent burnout and improves overall health."
+        },
+        {
+          "question": "How can busy women incorporate self-care into their routine?",
+          "answer": "By scheduling short breaks, prioritizing sleep, engaging in hobbies, and asking for support when needed."
+        },
+        {
+          "question": "Can stress impact fertility?",
+          "answer": "Yes, high stress levels can affect hormone balance and ovulation, potentially impacting fertility."
+        },
+        {
+          "question": "What role does social support play in stress management?",
+          "answer": "Strong social connections provide emotional support and reduce feelings of isolation."
+        },
+        {
+          "question": "Are there apps or tools that help with stress management?",
+          "answer": "Yes, many apps offer guided meditation, relaxation techniques, and mood tracking."
+        },
+        {
+          "question": "How does nutrition affect stress levels?",
+          "answer": "Balanced nutrition supports brain function and helps regulate mood and energy."
+        },
+        {
+          "question": "Can physical activity reduce stress?",
+          "answer": "Yes, exercise releases endorphins, which improve mood and reduce anxiety."
+        },
+        {
+          "question": "When should someone seek professional help for stress?",
+          "answer": "If stress is persistent, overwhelming, or interfering with daily life, consulting a mental health professional is recommended."
+        }
+      ]
+    },
+    {
+      "title": "Body Image & Self-Esteem",
+      "qa": [
+        {
+          "question": "How does body image affect mental health?",
+          "answer": "Negative body image can lead to low self-esteem, depression, and disordered eating."
+        },
+        {
+          "question": "What factors influence women's body image?",
+          "answer": "Media portrayals, social comparisons, cultural norms, and personal experiences all influence body image."
+        },
+        {
+          "question": "How can women improve their body image?",
+          "answer": "By practicing self-compassion, challenging unrealistic standards, and focusing on body functionality."
+        },
+        {
+          "question": "What is the impact of social media on body image?",
+          "answer": "Social media can both positively and negatively affect body image depending on content and usage patterns."
+        },
+        {
+          "question": "Can therapy help with body image issues?",
+          "answer": "Yes, cognitive-behavioral therapy (CBT) and other approaches effectively address body dissatisfaction."
+        },
+        {
+          "question": "How does self-esteem relate to body image?",
+          "answer": "Healthy body image supports higher self-esteem and vice versa."
+        },
+        {
+          "question": "What role do friends and family play in body image?",
+          "answer": "Supportive relationships reinforce positive body image and self-worth."
+        },
+        {
+          "question": "Are body image concerns common during pregnancy?",
+          "answer": "Yes, physical changes can cause mixed feelings, but many women also develop a more positive appreciation for their bodies."
+        },
+        {
+          "question": "How can media literacy improve body image?",
+          "answer": "Learning to critically evaluate media messages reduces their negative impact."
+        },
+        {
+          "question": "What are signs of poor body image?",
+          "answer": "Preoccupation with appearance, avoidance of social situations, and negative self-talk."
+        }
+      ]
+    },
+    {
+      "title": "Managing Anxiety Around Fertility & Pregnancy",
+      "qa": [
+        {
+          "question": "What causes anxiety related to fertility and pregnancy?",
+          "answer": "Uncertainty about outcomes, past losses, hormonal changes, and social pressures can contribute."
+        },
+        {
+          "question": "How common is anxiety during pregnancy?",
+          "answer": "Anxiety affects up to 20% of pregnant women, making it a common concern."
+        },
+        {
+          "question": "What are signs of anxiety during pregnancy?",
+          "answer": "Excessive worry, restlessness, sleep disturbances, and physical symptoms like rapid heartbeat."
+        },
+        {
+          "question": "Can anxiety affect pregnancy outcomes?",
+          "answer": "Severe untreated anxiety may increase risks of preterm birth or low birth weight."
+        },
+        {
+          "question": "How can pregnant women manage anxiety?",
+          "answer": "Relaxation techniques, counseling, support groups, and sometimes medication can help."
+        },
+        {
+          "question": "Is medication safe for anxiety during pregnancy?",
+          "answer": "Some medications are considered safe; risks and benefits should be discussed with a healthcare provider."
+        },
+        {
+          "question": "Can partners support anxiety management?",
+          "answer": "Yes, emotional support and understanding from partners are important."
+        },
+        {
+          "question": "What role does prenatal education play in reducing anxiety?",
+          "answer": "Learning about pregnancy and childbirth can reduce fear and increase confidence."
+        },
+        {
+          "question": "When should pregnant women seek professional help for anxiety?",
+          "answer": "If anxiety is persistent, severe, or impacts daily functioning, professional care is recommended."
+        },
+        {
+          "question": "Are there support resources for fertility-related anxiety?",
+          "answer": "Yes, many clinics offer counseling, and there are support groups for individuals facing fertility challenges."
+        }
+      ]
+    },
+    {
+      "title": "Relationship Health (Communication, Intimacy)",
+      "qa": [
+        {
+          "question": "Why is communication important in relationships?",
+          "answer": "Effective communication builds trust, resolves conflicts, and strengthens emotional connection."
+        },
+        {
+          "question": "How can couples improve intimacy?",
+          "answer": "Prioritizing quality time, expressing appreciation, and open dialogue about needs foster intimacy."
+        },
+        {
+          "question": "What are common challenges to intimacy in long-term relationships?",
+          "answer": "Stress, fatigue, parenting responsibilities, and unresolved conflicts can reduce intimacy."
+        },
+        {
+          "question": "How can partners navigate disagreements healthily?",
+          "answer": "By practicing active listening, staying calm, and seeking compromise or counseling if needed."
+        },
+        {
+          "question": "What role does physical affection play in relationships?",
+          "answer": "Physical touch promotes bonding and emotional wellbeing."
+        },
+        {
+          "question": "Can mental health impact relationship health?",
+          "answer": "Yes, anxiety, depression, and stress can strain communication and intimacy."
+        },
+        {
+          "question": "How does pregnancy affect relationship dynamics?",
+          "answer": "Pregnancy can bring couples closer but may also introduce stress and changing roles."
+        },
+        {
+          "question": "What strategies help maintain relationship health during stressful times?",
+          "answer": "Regular check-ins, empathy, shared activities, and professional support if needed."
+        },
+        {
+          "question": "Is it normal for sexual desire to fluctuate in relationships?",
+          "answer": "Yes, changes in life circumstances, health, and emotions naturally affect desire."
+        },
+        {
+          "question": "When should couples consider relationship counseling?",
+          "answer": "If communication breakdowns persist, conflicts escalate, or intimacy issues affect wellbeing."
+        }
+      ]
+    },
+    {
+      "title": "Managing Heavy Periods (Menorrhagia)",
+      "qa": [
+        {
+          "question": "What is considered a heavy period?",
+          "answer": "A heavy period means soaking through a pad or tampon every hour for several hours, passing large blood clots, or bleeding for longer than 7 days."
+        },
+        {
+          "question": "How can I track how much I’m bleeding during my period?",
+          "answer": "Track how often you change pads or tampons, note the size of clots, and log the number of days you bleed. Apps can also help you track flow."
+        },
+        {
+          "question": "Are there any home remedies to manage heavy periods?",
+          "answer": "Taking NSAIDs (like ibuprofen) can help reduce bleeding. Iron-rich foods help replenish blood. Hydration and rest also support recovery."
+        },
+        {
+          "question": "Can diet or nutrition affect heavy menstrual bleeding?",
+          "answer": "Yes, iron-rich foods (spinach, beans, lean meats) can help prevent anemia. Avoiding processed foods and refined sugars may also help regulate hormones."
+        },
+        {
+          "question": "When should I see a doctor for heavy periods?",
+          "answer": "If heavy bleeding affects daily activities, causes fatigue, or soaks through multiple pads in an hour for several hours, see your doctor."
+        },
+        {
+          "question": "What medical treatments are available for heavy periods?",
+          "answer": "Hormonal treatments (birth control pills, IUDs), tranexamic acid, and NSAIDs are common. Severe cases may need surgical options like endometrial ablation."
+        },
+        {
+          "question": "Can hormonal birth control help with heavy periods?",
+          "answer": "Yes, birth control pills and hormonal IUDs can lighten periods and regulate cycles."
+        },
+        {
+          "question": "What are the risks of not treating heavy menstrual bleeding?",
+          "answer": "Prolonged heavy bleeding can lead to iron-deficiency anemia, causing fatigue and weakness."
+        },
+        {
+          "question": "Could heavy periods be a sign of an underlying condition?",
+          "answer": "Yes, fibroids, polyps, thyroid issues, or clotting disorders can cause heavy bleeding."
+        },
+        {
+          "question": "Is it normal to pass large blood clots during my period?",
+          "answer": "Occasional small clots are normal. Large clots (bigger than a quarter) or frequent clots may be a sign of a heavy flow and should be checked."
+        }
+      ]
+    },
+    {
+      "title": "Tracking Cycle Regularity",
+      "qa": [
+        {
+          "question": "What is a normal menstrual cycle length?",
+          "answer": "A normal cycle lasts between 21 and 35 days, with bleeding for 3–7 days."
+        },
+        {
+          "question": "How can I start tracking my menstrual cycle?",
+          "answer": "Mark the first day of your period on a calendar or use an app. Note symptoms like cramps or PMS."
+        },
+        {
+          "question": "What signs or symptoms should I track each month?",
+          "answer": "Track flow (light, medium, heavy), length of bleeding, mood changes, cramps, breast tenderness, and headaches."
+        },
+        {
+          "question": "How does stress affect my cycle?",
+          "answer": "Stress can disrupt hormone balance, leading to irregular or missed periods."
+        },
+        {
+          "question": "Can irregular cycles affect fertility?",
+          "answer": "Yes, irregular cycles can make it harder to predict ovulation, affecting chances of pregnancy."
+        },
+        {
+          "question": "What’s the best app for tracking my period?",
+          "answer": "Popular apps include Clue, Flo, My Calendar, and Period Tracker. Choose one that’s easy for you."
+        },
+        {
+          "question": "How does exercise or weight affect cycle regularity?",
+          "answer": "Excessive exercise or low body weight can stop periods, while sudden weight gain can also disrupt cycles."
+        },
+        {
+          "question": "Can medical conditions cause irregular periods?",
+          "answer": "Yes, PCOS, thyroid disorders, diabetes, and pituitary problems can cause irregular periods."
+        },
+        {
+          "question": "What does it mean if my cycle suddenly changes?",
+          "answer": "Changes can be due to stress, illness, weight changes, or a medical condition. If it continues, see your doctor."
+        },
+        {
+          "question": "Should I talk to a doctor if my cycles are always irregular?",
+          "answer": "Yes, irregular cycles for several months might need evaluation for underlying conditions."
+        }
+      ]
+    },
+    {
+      "title": "PMS vs. PMDD",
+      "qa": [
+        {
+          "question": "What’s the difference between PMS and PMDD?",
+          "answer": "PMS causes mild mood or physical symptoms. PMDD causes severe mood changes (depression, anger) that interfere with daily life."
+        },
+        {
+          "question": "How common is PMDD?",
+          "answer": "PMDD affects about 3–8% of women of reproductive age."
+        },
+        {
+          "question": "What are the symptoms of PMDD?",
+          "answer": "Severe mood swings, irritability, depression, anxiety, trouble sleeping, and physical symptoms like bloating."
+        },
+        {
+          "question": "How do I know if my symptoms are severe enough for PMDD?",
+          "answer": "If your symptoms disrupt work, school, or relationships, you may have PMDD. Keeping a symptom diary can help your doctor diagnose it."
+        },
+        {
+          "question": "Can lifestyle changes help manage PMDD?",
+          "answer": "Yes, regular exercise, a balanced diet, reducing caffeine/alcohol, and good sleep can help."
+        },
+        {
+          "question": "Are there medications to treat PMDD?",
+          "answer": "Yes, SSRIs (antidepressants like fluoxetine, sertraline) can help. Birth control pills can also regulate symptoms."
+        },
+        {
+          "question": "Can birth control help with PMDD symptoms?",
+          "answer": "Yes, hormonal birth control can help balance hormones and reduce PMDD symptoms."
+        },
+        {
+          "question": "Is PMDD linked to depression or anxiety?",
+          "answer": "Yes, PMDD can trigger depression and anxiety symptoms."
+        },
+        {
+          "question": "Can diet changes help with PMS or PMDD?",
+          "answer": "Yes, a diet rich in whole grains, fruits, and veggies can help. Avoiding sugar and caffeine may also reduce symptoms."
+        },
+        {
+          "question": "Should I see a doctor if I think I have PMDD?",
+          "answer": "Yes, PMDD is treatable, and your doctor can help find the best plan for you."
+        }
+      ]
+    },
+    {
+      "title": "Menstrual Hygiene (Tampons, Pads, Cups)",
+      "qa": [
+        {
+          "question": "What’s the best product for menstrual hygiene?",
+          "answer": "The best product depends on comfort and lifestyle. Pads, tampons, cups, and period underwear are all safe options."
+        },
+        {
+          "question": "How often should I change my pad or tampon?",
+          "answer": "Change every 4–6 hours for pads, and every 4–8 hours for tampons to avoid leaks and infection."
+        },
+        {
+          "question": "Are menstrual cups safe to use?",
+          "answer": "Yes, menstrual cups are safe and eco-friendly. They need to be emptied and cleaned regularly."
+        },
+        {
+          "question": "What is Toxic Shock Syndrome (TSS), and how can I avoid it?",
+          "answer": "TSS is a rare but serious infection linked to tampons left in too long. Change tampons every 4–8 hours and use the lowest absorbency needed."
+        },
+        {
+          "question": "Can I sleep with a tampon in?",
+          "answer": "Yes, but use a fresh tampon before bed and remove it within 8 hours."
+        },
+        {
+          "question": "Are reusable products like menstrual cups and period underwear safe?",
+          "answer": "Yes, they’re safe and reduce waste. Just follow cleaning instructions."
+        },
+        {
+          "question": "How do I choose the right size menstrual cup?",
+          "answer": "Most brands offer size guides. Generally, smaller cups are for teens and those who haven’t given birth, and larger for those who have."
+        },
+        {
+          "question": "What’s the best way to clean menstrual cups?",
+          "answer": "Wash with mild soap and water during use and boil it at the end of your cycle for disinfection."
+        },
+        {
+          "question": "Can I use a tampon if I’m a virgin?",
+          "answer": "Yes, tampons don’t affect virginity. Choose a small size if it’s your first time."
+        },
+        {
+          "question": "Are there eco-friendly period product options?",
+          "answer": "Yes! Menstrual cups, reusable pads, and period underwear reduce waste and are more sustainable."
+        }
+      ]
+    },
+    {
+      "title": "Period Myths & Facts",
+      "qa": [
+        {
+          "question": "Can I swim while on my period?",
+          "answer": "Yes! Tampons or menstrual cups can be used for swimming."
+        },
+        {
+          "question": "Will exercise make my period worse?",
+          "answer": "No, exercise can reduce cramps and boost mood during your period."
+        },
+        {
+          "question": "Is it normal to have brown blood at the start or end of my period?",
+          "answer": "Yes, brown blood is old blood that’s taking longer to leave your body."
+        },
+        {
+          "question": "Do periods really sync with friends?",
+          "answer": "Not scientifically proven! Period syncing is likely due to chance."
+        },
+        {
+          "question": "Can you get pregnant on your period?",
+          "answer": "It’s rare but possible, especially if you have a short cycle."
+        },
+        {
+          "question": "Is it true that periods stop in water?",
+          "answer": "No, water pressure may slow the flow, but periods don’t stop."
+        },
+        {
+          "question": "Are period cramps as bad as they feel?",
+          "answer": "Yes! Cramps can be as painful as heart attacks, studies show."
+        },
+        {
+          "question": "Do tampons take away your virginity?",
+          "answer": "No, tampons don’t affect virginity."
+        },
+        {
+          "question": "Should I avoid certain foods during my period?",
+          "answer": "It’s helpful to avoid salty and processed foods that can cause bloating. Eating healthy fats and iron-rich foods helps."
+        },
+        {
+          "question": "Is it bad to use birth control to skip periods?",
+          "answer": "No, skipping periods with birth control is safe for most people. Always check with your doctor."
+        }
+      ]
+    },
+    {
+      "title": "Amenorrhea (Missed Periods)",
+      "qa": [
+        {
+          "question": "What is amenorrhea?",
+          "answer": "It’s the absence of a period for 3+ months in someone with previous regular cycles, or 6+ months if cycles were irregular."
+        },
+        {
+          "question": "Can stress cause missed periods?",
+          "answer": "Yes! Stress hormones can temporarily shut down your cycle."
+        },
+        {
+          "question": "What medical conditions can cause missed periods?",
+          "answer": "PCOS, thyroid disorders, pituitary tumors, and early menopause can cause amenorrhea."
+        },
+        {
+          "question": "How does weight loss or gain affect periods?",
+          "answer": "Low body weight can stop periods due to low estrogen, while obesity can also cause hormonal imbalance."
+        },
+        {
+          "question": "Can intense exercise stop my period?",
+          "answer": "Yes, extreme exercise can lower estrogen and stop periods, especially in athletes."
+        },
+        {
+          "question": "What are the signs of early menopause?",
+          "answer": "Hot flashes, night sweats, vaginal dryness, and missed periods before age 40."
+        },
+        {
+          "question": "Can thyroid problems cause missed periods?",
+          "answer": "Yes, thyroid hormones regulate menstrual cycles. Imbalance can cause irregular or missed periods."
+        },
+        {
+          "question": "What tests do doctors do to find the cause of amenorrhea?",
+          "answer": "Blood tests for hormones (FSH, LH, thyroid), pregnancy tests, and sometimes imaging like ultrasounds."
+        },
+        {
+          "question": "Is it normal to miss a period if I’ve recently stopped birth control?",
+          "answer": "Yes, it can take a few months for cycles to normalize after stopping birth control."
+        },
+        {
+          "question": "What can I do if I haven’t had a period for several months?",
+          "answer": "See your doctor for evaluation. Treatment depends on the cause—like hormonal therapy or lifestyle changes."
+        }
+      ]
+    },
+    {
+      "title": "Perimenopause Symptoms",
+      "qa": [
+        {
+          "question": "What is perimenopause?",
+          "answer": "Perimenopause is the transitional phase before menopause when hormone levels begin to fluctuate."
+        },
+        {
+          "question": "At what age does perimenopause usually start?",
+          "answer": "It typically starts in the 40s but can begin earlier or later."
+        },
+        {
+          "question": "What are common symptoms of perimenopause?",
+          "answer": "Irregular periods, mood swings, hot flashes, sleep problems, and vaginal dryness."
+        },
+        {
+          "question": "How long does perimenopause last?",
+          "answer": "It can last from a few months up to 10 years."
+        },
+        {
+          "question": "Can perimenopause cause heavy periods?",
+          "answer": "Yes, some women experience heavier or longer menstrual bleeding."
+        },
+        {
+          "question": "Is it possible to get pregnant during perimenopause?",
+          "answer": "Yes, pregnancy is still possible until menopause is reached."
+        },
+        {
+          "question": "What lifestyle changes can help with perimenopause symptoms?",
+          "answer": "Regular exercise, balanced diet, stress reduction, and good sleep hygiene help."
+        },
+        {
+          "question": "Should I see a doctor about perimenopause symptoms?",
+          "answer": "Yes, especially if symptoms are severe or affecting quality of life."
+        },
+        {
+          "question": "Can hormonal birth control be used during perimenopause?",
+          "answer": "Yes, it can help regulate cycles and manage symptoms but consult your doctor."
+        },
+        {
+          "question": "Are mood changes common in perimenopause?",
+          "answer": "Yes, fluctuating hormones can cause mood swings, anxiety, or depression."
+        }
+      ]
+    },
+    {
+      "title": "Hot Flashes & Night Sweats",
+      "qa": [
+        {
+          "question": "What causes hot flashes during menopause?",
+          "answer": "Hormonal changes affect the body's temperature regulation, causing hot flashes."
+        },
+        {
+          "question": "How long do hot flashes usually last?",
+          "answer": "They can last from a few seconds to several minutes, often recurring for years."
+        },
+        {
+          "question": "Are night sweats different from hot flashes?",
+          "answer": "Night sweats are hot flashes that happen during sleep and can disrupt rest."
+        },
+        {
+          "question": "Can diet affect hot flashes?",
+          "answer": "Yes, spicy foods, caffeine, and alcohol can trigger or worsen hot flashes."
+        },
+        {
+          "question": "What can I do to reduce hot flashes?",
+          "answer": "Wear layered clothing, avoid triggers, practice relaxation techniques, and keep cool."
+        },
+        {
+          "question": "Are there medications to treat hot flashes?",
+          "answer": "Yes, hormone therapy and some non-hormonal medications can help."
+        },
+        {
+          "question": "Can exercise help with hot flashes?",
+          "answer": "Regular exercise may reduce frequency and severity."
+        },
+        {
+          "question": "Do all women experience hot flashes?",
+          "answer": "No, about 75% of women experience them, but severity varies widely."
+        },
+        {
+          "question": "Are hot flashes dangerous?",
+          "answer": "No, they are uncomfortable but not harmful."
+        },
+        {
+          "question": "When should I see a doctor about hot flashes?",
+          "answer": "If they severely disrupt your life or you want treatment options."
+        }
+      ]
+    },
+    {
+      "title": "Hormone Replacement Therapy (HRT) Pros/Cons",
+      "qa": [
+        {
+          "question": "What is hormone replacement therapy (HRT)?",
+          "answer": "HRT is the use of estrogen and sometimes progesterone to relieve menopausal symptoms."
+        },
+        {
+          "question": "What are the benefits of HRT?",
+          "answer": "It can reduce hot flashes, improve mood, protect bone health, and improve vaginal symptoms."
+        },
+        {
+          "question": "What are the risks of HRT?",
+          "answer": "Potential risks include increased chances of blood clots, stroke, and certain cancers."
+        },
+        {
+          "question": "Who should consider HRT?",
+          "answer": "Women with severe menopausal symptoms and no contraindications may benefit."
+        },
+        {
+          "question": "How long can HRT be safely used?",
+          "answer": "Typically recommended for the shortest duration needed, often under 5 years."
+        },
+        {
+          "question": "Are there different types of HRT?",
+          "answer": "Yes, systemic (pills, patches) and local (vaginal creams, rings)."
+        },
+        {
+          "question": "Can HRT prevent osteoporosis?",
+          "answer": "Yes, it helps maintain bone density but is usually not the first treatment."
+        },
+        {
+          "question": "Does HRT affect heart disease risk?",
+          "answer": "Risks vary by age and health; younger women may have neutral or reduced risk."
+        },
+        {
+          "question": "Can women without a uterus take estrogen only HRT?",
+          "answer": "Yes, estrogen-only therapy is safe for women without a uterus."
+        },
+        {
+          "question": "What alternatives exist if I can’t use HRT?",
+          "answer": "Non-hormonal medications, lifestyle changes, and natural remedies can help."
+        }
+      ]
+    },
+    {
+      "title": "Bone Health After Menopause",
+      "qa": [
+        {
+          "question": "Why does menopause affect bone health?",
+          "answer": "Lower estrogen levels increase bone loss, raising osteoporosis risk."
+        },
+        {
+          "question": "What is osteoporosis?",
+          "answer": "A condition where bones become weak and brittle, increasing fracture risk."
+        },
+        {
+          "question": "How can I protect my bones after menopause?",
+          "answer": "Adequate calcium, vitamin D, weight-bearing exercise, and avoiding smoking."
+        },
+        {
+          "question": "Should I get a bone density test?",
+          "answer": "Yes, especially if you have risk factors or are over 65."
+        },
+        {
+          "question": "Can HRT help with bone health?",
+          "answer": "Yes, HRT can reduce bone loss and fracture risk."
+        },
+        {
+          "question": "Are there medications specifically for osteoporosis?",
+          "answer": "Yes, bisphosphonates and other drugs help strengthen bones."
+        },
+        {
+          "question": "How much calcium do postmenopausal women need?",
+          "answer": "About 1,200 mg per day from diet and supplements."
+        },
+        {
+          "question": "Does vitamin D affect bone health?",
+          "answer": "Yes, it helps calcium absorption and bone metabolism."
+        },
+        {
+          "question": "What lifestyle habits harm bone health?",
+          "answer": "Smoking, excessive alcohol, and inactivity can worsen bone loss."
+        },
+        {
+          "question": "Can fractures from osteoporosis be prevented?",
+          "answer": "Yes, with proper bone health management and fall prevention."
+        }
+      ]
+    },
+    {
+      "title": "Sexual Health During Menopause",
+      "qa": [
+        {
+          "question": "How does menopause affect sexual health?",
+          "answer": "Hormonal changes can reduce libido, cause vaginal dryness, and discomfort."
+        },
+        {
+          "question": "What causes vaginal dryness in menopause?",
+          "answer": "Lower estrogen reduces vaginal lubrication and elasticity."
+        },
+        {
+          "question": "Can sexual desire return after menopause?",
+          "answer": "Yes, many women experience improved sexual health with treatment and time."
+        },
+        {
+          "question": "What treatments help with vaginal dryness?",
+          "answer": "Lubricants, vaginal moisturizers, and low-dose estrogen therapy."
+        },
+        {
+          "question": "Is it normal to have pain during sex after menopause?",
+          "answer": "Yes, due to thinning tissues and dryness; treatment can help."
+        },
+        {
+          "question": "Can HRT improve sexual function?",
+          "answer": "It can help by restoring hormone levels and reducing symptoms."
+        },
+        {
+          "question": "Are there non-hormonal options for sexual health?",
+          "answer": "Yes, pelvic floor exercises, counseling, and lubricants."
+        },
+        {
+          "question": "Does menopause affect orgasm?",
+          "answer": "Some women may notice changes but orgasms are still possible."
+        },
+        {
+          "question": "How can I talk to my partner about sexual changes?",
+          "answer": "Open communication, patience, and sometimes counseling can help."
+        },
+        {
+          "question": "When should I see a doctor about sexual health issues?",
+          "answer": "If discomfort, pain, or loss of desire impacts your quality of life."
+        }
+      ]
+    },
+    {
+      "title": "Exercise Tips for Different Life Stages",
+      "qa": [
+        {
+          "question": "What types of exercise are recommended for adolescent girls?",
+          "answer": "Adolescent girls benefit from a mix of aerobic exercises, strength training, and flexibility exercises to support growth and bone health."
+        },
+        {
+          "question": "How can pregnant women safely stay active?",
+          "answer": "Low-impact activities like walking, swimming, and prenatal yoga are generally safe, but it's important to consult a healthcare provider."
+        },
+        {
+          "question": "What exercise modifications are recommended for menopausal women?",
+          "answer": "Weight-bearing exercises, balance training, and strength workouts help maintain bone density and muscle mass."
+        },
+        {
+          "question": "How much exercise is recommended for adults?",
+          "answer": "At least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity aerobic activity per week, plus muscle-strengthening activities twice weekly."
+        },
+        {
+          "question": "What are the benefits of exercise in older women?",
+          "answer": "Improved cardiovascular health, muscle strength, bone density, mental health, and balance to prevent falls."
+        },
+        {
+          "question": "Can exercise help regulate menstrual cycles?",
+          "answer": "Moderate exercise supports hormonal balance, but excessive exercise can disrupt cycles."
+        },
+        {
+          "question": "Are there any exercises to avoid during pregnancy?",
+          "answer": "Avoid contact sports, high-impact activities, or exercises that involve lying flat on the back after the first trimester."
+        },
+        {
+          "question": "How does exercise affect fertility?",
+          "answer": "Moderate exercise supports fertility, but excessive intensity may negatively impact ovulation."
+        },
+        {
+          "question": "What role does exercise play in mental health?",
+          "answer": "Exercise reduces stress, anxiety, and depression by releasing endorphins and improving sleep."
+        },
+        {
+          "question": "When should women consult a doctor before starting exercise?",
+          "answer": "Women with chronic conditions, pregnancy, or new symptoms should seek medical advice before starting a new routine."
+        }
+      ]
+    },
+    {
+      "title": "Nutrition for Reproductive Health",
+      "qa": [
+        {
+          "question": "What nutrients are important for reproductive health?",
+          "answer": "Folate, iron, calcium, vitamin D, omega-3 fatty acids, and antioxidants support reproductive function."
+        },
+        {
+          "question": "How does folate benefit reproductive health?",
+          "answer": "Folate helps prevent neural tube defects and supports healthy fetal development."
+        },
+        {
+          "question": "Why is iron important for menstruating women?",
+          "answer": "Iron prevents anemia caused by menstrual blood loss and supports energy levels."
+        },
+        {
+          "question": "Can diet affect menstrual cycle regularity?",
+          "answer": "Yes, balanced nutrition supports hormone balance; poor diet can cause irregular cycles."
+        },
+        {
+          "question": "What foods should be avoided for better fertility?",
+          "answer": "Highly processed foods, excessive caffeine, alcohol, and trans fats can negatively impact fertility."
+        },
+        {
+          "question": "How does hydration affect reproductive health?",
+          "answer": "Adequate hydration supports overall body function and hormone transport."
+        },
+        {
+          "question": "Are supplements necessary for reproductive health?",
+          "answer": "Supplements may be needed if dietary intake is insufficient, especially folic acid during pregnancy."
+        },
+        {
+          "question": "How does obesity affect reproductive health?",
+          "answer": "Obesity can disrupt hormone balance, cause menstrual irregularities, and reduce fertility."
+        },
+        {
+          "question": "Can antioxidants improve fertility?",
+          "answer": "Antioxidants protect cells from damage and may improve egg quality and sperm health."
+        },
+        {
+          "question": "What is the role of omega-3 fatty acids in reproductive health?",
+          "answer": "They support hormone production, reduce inflammation, and promote fetal brain development."
+        }
+      ]
+    },
+    {
+      "title": "Sleep Hygiene for Hormone Balance",
+      "qa": [
+        {
+          "question": "How does sleep affect hormone regulation?",
+          "answer": "Sleep regulates hormones like cortisol, insulin, and reproductive hormones essential for health."
+        },
+        {
+          "question": "What is good sleep hygiene?",
+          "answer": "Consistent sleep schedule, dark quiet environment, avoiding screens before bed, and limiting caffeine."
+        },
+        {
+          "question": "How does poor sleep affect menstrual cycles?",
+          "answer": "Sleep deprivation can disrupt hormone cycles, causing irregular or missed periods."
+        },
+        {
+          "question": "Can sleep problems worsen PMS symptoms?",
+          "answer": "Yes, poor sleep can increase fatigue, irritability, and other PMS symptoms."
+        },
+        {
+          "question": "What is the impact of sleep on fertility?",
+          "answer": "Poor sleep can affect ovulation and hormone balance, reducing fertility."
+        },
+        {
+          "question": "How much sleep do women need for optimal hormone health?",
+          "answer": "7-9 hours per night is generally recommended."
+        },
+        {
+          "question": "What role does melatonin play in reproductive health?",
+          "answer": "Melatonin regulates sleep cycles and may protect ovarian function."
+        },
+        {
+          "question": "Can menopause affect sleep quality?",
+          "answer": "Yes, hormonal changes during menopause often cause insomnia and night sweats."
+        },
+        {
+          "question": "What are natural ways to improve sleep quality?",
+          "answer": "Regular exercise, limiting caffeine, relaxation techniques, and a cool dark bedroom."
+        },
+        {
+          "question": "When should sleep issues be evaluated by a doctor?",
+          "answer": "If sleep problems persist and affect daily life or mental health, medical evaluation is recommended."
+        }
+      ]
+    },
+    {
+      "title": "Screening Guidelines (Pap Smear, Bone Density Tests, etc.)",
+      "qa": [
+        {
+          "question": "When should women start getting Pap smears?",
+          "answer": "Women should start Pap smears at age 21 and continue every 3 years if results are normal."
+        },
+        {
+          "question": "How often should Pap smears be done after age 30?",
+          "answer": "Every 3 to 5 years depending on HPV testing and previous results."
+        },
+        {
+          "question": "What is the purpose of a bone density test?",
+          "answer": "It measures bone strength and assesses osteoporosis risk."
+        },
+        {
+          "question": "At what age should women get their first bone density test?",
+          "answer": "Generally recommended at age 65 or earlier if risk factors exist."
+        },
+        {
+          "question": "What other routine screenings should women get?",
+          "answer": "Mammograms starting at 40-50, blood pressure, cholesterol, diabetes, and STI screenings as needed."
+        },
+        {
+          "question": "How often should cholesterol be checked?",
+          "answer": "Every 4-6 years for most adults, more frequently if risk factors are present."
+        },
+        {
+          "question": "When should women get screened for thyroid disorders?",
+          "answer": "Screening is recommended if symptoms occur or risk factors exist, often during pregnancy."
+        },
+        {
+          "question": "Are HPV vaccines part of preventive care?",
+          "answer": "Yes, HPV vaccination helps prevent cervical cancer and is recommended for adolescents and young adults."
+        },
+        {
+          "question": "How can women prepare for screening tests?",
+          "answer": "Follow instructions about fasting, scheduling, and inform providers about health history."
+        },
+        {
+          "question": "Why is regular screening important?",
+          "answer": "Early detection of diseases improves treatment outcomes and long-term health."
+        }
+      ]
+    },
+    {
+      "title": "Preventive Care Checklists",
+      "qa": [
+        {
+          "question": "What should be included in a preventive care checklist for women?",
+          "answer": "Vaccinations, screenings (cervical, breast, bone density), lifestyle counseling, and mental health assessments."
+        },
+        {
+          "question": "How often should women visit their healthcare provider for checkups?",
+          "answer": "At least once a year for routine preventive care and screenings."
+        },
+        {
+          "question": "What vaccinations are recommended for women of reproductive age?",
+          "answer": "HPV, influenza, Tdap, and COVID-19 vaccines."
+        },
+        {
+          "question": "How can women keep track of their preventive care needs?",
+          "answer": "Using health apps, calendars, or personal health records."
+        },
+        {
+          "question": "Are lifestyle habits part of preventive care?",
+          "answer": "Yes, diet, exercise, smoking cessation, and alcohol moderation are important."
+        },
+        {
+          "question": "Why is mental health screening important in preventive care?",
+          "answer": "Early identification of anxiety, depression, or stress improves overall wellbeing."
+        },
+        {
+          "question": "What role do screenings play in cancer prevention?",
+          "answer": "They detect precancerous changes or early cancer stages, improving treatment success."
+        },
+        {
+          "question": "How can women advocate for their preventive care?",
+          "answer": "By asking questions, scheduling regular exams, and staying informed about guidelines."
+        },
+        {
+          "question": "Is genetic counseling part of preventive care?",
+          "answer": "For women with family histories of certain diseases, genetic counseling can guide risk management."
+        },
+        {
+          "question": "What are some barriers to preventive care and how can they be overcome?",
+          "answer": "Barriers include cost, access, and lack of awareness; solutions include insurance coverage, education, and community resources."
+        }
+      ]
+    },
+    {
+      "title": "Breastfeeding vs. Formula Feeding",
+      "qa": [
+        {
+          "question": "What are the benefits of breastfeeding for the baby?",
+          "answer": "Breast milk provides ideal nutrition, antibodies for immunity, and promotes bonding."
+        },
+        {
+          "question": "What are the benefits of breastfeeding for the mother?",
+          "answer": "It helps uterine contraction, reduces bleeding, and may lower risks of certain cancers."
+        },
+        {
+          "question": "Is formula feeding as nutritious as breastfeeding?",
+          "answer": "Formula is designed to meet nutritional needs but lacks antibodies and some bioactive components."
+        },
+        {
+          "question": "Can formula feeding be combined with breastfeeding?",
+          "answer": "Yes, mixed feeding is possible but should be done carefully to maintain milk supply."
+        },
+        {
+          "question": "What challenges do mothers face with breastfeeding?",
+          "answer": "Common challenges include latch issues, nipple pain, and milk supply concerns."
+        },
+        {
+          "question": "Are there situations where formula feeding is recommended?",
+          "answer": "Yes, for mothers with certain infections, medications, or insufficient milk supply."
+        },
+        {
+          "question": "How does breastfeeding affect birth control options?",
+          "answer": "Exclusive breastfeeding can delay ovulation but is not a reliable contraception method alone."
+        },
+        {
+          "question": "Does breastfeeding help with postpartum weight loss?",
+          "answer": "It can help burn extra calories but results vary."
+        },
+        {
+          "question": "Can formula feeding be done safely?",
+          "answer": "Yes, when prepared properly with clean water and sterilized equipment."
+        },
+        {
+          "question": "How long is breastfeeding recommended?",
+          "answer": "Exclusive breastfeeding is recommended for 6 months, with continued breastfeeding up to 1 year or more."
+        }
+      ]
+    },
+    {
+      "title": "When to Get a Mammogram",
+      "qa": [
+        {
+          "question": "What is a mammogram?",
+          "answer": "A mammogram is an X-ray exam of the breast used to detect cancer early."
+        },
+        {
+          "question": "At what age should women start regular mammograms?",
+          "answer": "Most guidelines recommend starting at age 40 to 50, depending on risk factors."
+        },
+        {
+          "question": "How often should mammograms be done?",
+          "answer": "Usually every 1 to 2 years, but your doctor may recommend a different schedule."
+        },
+        {
+          "question": "Who needs earlier or more frequent mammograms?",
+          "answer": "Women with a family history of breast cancer or other risk factors may need earlier screening."
+        },
+        {
+          "question": "Can mammograms detect all breast cancers?",
+          "answer": "No, some cancers may not show up; additional tests might be needed."
+        },
+        {
+          "question": "Are mammograms painful?",
+          "answer": "They can be uncomfortable due to breast compression but typically last only a few minutes."
+        },
+        {
+          "question": "What should I do if I notice a breast lump?",
+          "answer": "See your healthcare provider promptly for evaluation, regardless of mammogram schedule."
+        },
+        {
+          "question": "Can mammograms be done during pregnancy?",
+          "answer": "Usually avoided unless necessary, due to radiation exposure risks."
+        },
+        {
+          "question": "Do mammograms expose you to radiation?",
+          "answer": "Yes, but the dose is very low and considered safe for most women."
+        },
+        {
+          "question": "What happens if a mammogram shows an abnormality?",
+          "answer": "Further tests like ultrasound, MRI, or biopsy may be needed to diagnose."
+        }
+      ]
+    },
+    {
+      "title": "What to Expect During a Mammogram",
+      "qa": [
+        {
+          "question": "How long does a mammogram take?",
+          "answer": "Usually about 20 minutes."
+        },
+        {
+          "question": "What happens during a mammogram?",
+          "answer": "Breasts are placed on a flat surface and gently compressed while X-rays are taken."
+        },
+        {
+          "question": "Does the compression hurt?",
+          "answer": "It may cause brief discomfort but helps get clearer images."
+        },
+        {
+          "question": "Can I wear deodorant or lotion before a mammogram?",
+          "answer": "No, these can interfere with the images."
+        },
+        {
+          "question": "Should I avoid scheduling during my period?",
+          "answer": "It's best to schedule after your period when breasts are less tender."
+        },
+        {
+          "question": "Will I need more than one image?",
+          "answer": "Yes, typically two images per breast from different angles."
+        },
+        {
+          "question": "Can mammograms detect lumps before I can feel them?",
+          "answer": "Yes, they can detect small lumps not yet palpable."
+        },
+        {
+          "question": "What should I tell the technician before the exam?",
+          "answer": "Any breast symptoms, surgeries, implants, or family history of breast cancer."
+        },
+        {
+          "question": "Is mammogram screening different from diagnostic mammogram?",
+          "answer": "Yes, screening is routine; diagnostic investigates symptoms or abnormalities."
+        },
+        {
+          "question": "When will I get results?",
+          "answer": "Usually within a few days to a week."
+        }
+      ]
+    },
+    {
+      "title": "Breast Changes with Age",
+      "qa": [
+        {
+          "question": "How do breasts change with age?",
+          "answer": "Breasts may become less dense, more fatty, and less firm over time."
+        },
+        {
+          "question": "What is dense breast tissue?",
+          "answer": "Breasts with more glandular and fibrous tissue appear dense on mammograms."
+        },
+        {
+          "question": "Does dense breast tissue affect cancer risk?",
+          "answer": "Yes, denser breasts can slightly increase breast cancer risk and make detection harder."
+        },
+        {
+          "question": "Are lumps always cancerous?",
+          "answer": "No, many lumps are benign but should always be checked by a healthcare provider."
+        },
+        {
+          "question": "Can hormonal changes cause breast lumps?",
+          "answer": "Yes, hormonal fluctuations can cause cysts or fibrocystic changes."
+        },
+        {
+          "question": "Is breast pain normal as I age?",
+          "answer": "Mild tenderness can be normal, but persistent or severe pain should be evaluated."
+        },
+        {
+          "question": "When should I perform breast self-exams?",
+          "answer": "Monthly, ideally a few days after your period ends or on the same date monthly if not menstruating."
+        },
+        {
+          "question": "Do breast size or shape changes indicate cancer?",
+          "answer": "Sudden changes warrant medical evaluation, though many causes are benign."
+        },
+        {
+          "question": "How does menopause affect breast tissue?",
+          "answer": "Reduced estrogen causes tissue to shrink and become fattier."
+        },
+        {
+          "question": "Can lifestyle affect breast health as I age?",
+          "answer": "Yes, exercise, diet, and avoiding smoking support healthy breast tissue."
+        }
+      ]
+    },
+    {
+      "title": "Benign Breast Conditions",
+      "qa": [
+        {
+          "question": "What are fibrocystic breasts?",
+          "answer": "A common benign condition causing lumpy, tender breasts often linked to hormonal changes."
+        },
+        {
+          "question": "What causes breast cysts?",
+          "answer": "Fluid-filled sacs that can develop due to hormonal fluctuations."
+        },
+        {
+          "question": "Are fibrocystic changes cancerous?",
+          "answer": "No, they are benign but can make mammogram interpretation more complex."
+        },
+        {
+          "question": "How are benign breast lumps diagnosed?",
+          "answer": "Through physical exams, mammograms, ultrasounds, and sometimes biopsy."
+        },
+        {
+          "question": "Can benign breast conditions cause pain?",
+          "answer": "Yes, tenderness and discomfort are common symptoms."
+        },
+        {
+          "question": "Do benign breast conditions increase cancer risk?",
+          "answer": "Most do not increase risk, but some atypical changes may slightly increase risk."
+        },
+        {
+          "question": "How are cysts treated?",
+          "answer": "Often no treatment needed; large cysts can be drained if painful."
+        },
+        {
+          "question": "Can diet affect fibrocystic breasts?",
+          "answer": "Some women find symptom relief by reducing caffeine and fat intake."
+        },
+        {
+          "question": "Should I monitor benign lumps regularly?",
+          "answer": "Yes, regular check-ups and self-awareness are recommended."
+        },
+        {
+          "question": "When should I see a doctor about breast lumps?",
+          "answer": "If lumps persist, grow, or are associated with other symptoms like nipple discharge."
+        }
+      ]
+    }
+  ]
+}
