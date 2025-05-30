@@ -1,8 +1,5 @@
-{
-  "topics": [
-    {
-      "title": "Safer Sex Practices & Contraception",
-      "qa": [
+[
+
         {
           "question": "What are the most effective safer sex practices?",
           "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
@@ -42,12 +39,8 @@
         {
           "question": "Is abstinence the only 100% effective method to prevent STIs?",
           "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
-        }
-      ]
-    },
-    {
-      "title": "Common STIs (Chlamydia, HPV, Herpes, etc.)",
-      "qa": [
+        },
+
         {
           "question": "What is chlamydia and how is it transmitted?",
           "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
@@ -87,12 +80,215 @@
         {
           "question": "Are all STIs curable?",
           "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
-        }
-      ]
-    },
-    {
-      "title": "Symptoms of Vaginal Infections (Yeast Infections, Bacterial Vaginosis)",
-      "qa": [
+        },
+      
+  {
+          "question": "What are common symptoms of a yeast infection?",
+          "answer": "Itching, thick white discharge, redness, and irritation."
+        },
+        {
+          "question": "What causes bacterial vaginosis (BV)?",
+          "answer": "An imbalance of normal vaginal bacteria leads to BV."
+        },
+        {
+          "question": "How can you tell the difference between yeast infection and BV?",
+          "answer": "Yeast infection usually has thick, white discharge; BV causes thin, grayish discharge with fishy odor."
+        },
+        {
+          "question": "Are vaginal infections contagious?",
+          "answer": "Yeast infections are usually not sexually transmitted; BV is linked to sexual activity but not classified as an STI."
+        },
+        {
+          "question": "How are yeast infections treated?",
+          "answer": "Antifungal creams or oral medications prescribed by a healthcare provider."
+        },
+        {
+          "question": "How is bacterial vaginosis treated?",
+          "answer": "Antibiotics such as metronidazole or clindamycin."
+        },
+        {
+          "question": "Can vaginal infections affect pregnancy?",
+          "answer": "Yes, untreated infections can increase risks of complications."
+        },
+        {
+          "question": "How can vaginal infections be prevented?",
+          "answer": "Good hygiene, avoiding irritants, wearing breathable cotton underwear, and safe sex practices."
+        },
+        {
+          "question": "Should I see a doctor if I have vaginal symptoms?",
+          "answer": "Yes, to get proper diagnosis and treatment."
+        },
+        {
+          "question": "Can vaginal infections recur?",
+          "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
+        },
+      
+  
+        {
+          "question": "When should I get tested for STIs?",
+          "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
+        },
+        {
+          "question": "How often should sexually active people get tested?",
+          "answer": "At least once a year or more frequently based on risk factors."
+        },
+        {
+          "question": "Can I get tested even without symptoms?",
+          "answer": "Yes, many STIs can be asymptomatic but still contagious."
+        },
+        {
+          "question": "Where can I get tested for STIs?",
+          "answer": "Healthcare providers, clinics, sexual health centers, and some pharmacies."
+        },
+        {
+          "question": "Are STI tests confidential?",
+          "answer": "Yes, most testing sites maintain confidentiality."
+        },
+        {
+          "question": "What types of samples are used for STI testing?",
+          "answer": "Urine, blood, swabs from genital, oral, or rectal areas depending on the test."
+        },
+        {
+          "question": "How long does it take to get STI test results?",
+          "answer": "Results may take from a few days to a week."
+        },
+        {
+          "question": "What happens if I test positive for an STI?",
+          "answer": "You will receive treatment options and counseling on preventing transmission."
+        },
+        {
+          "question": "Should my partner get tested too?",
+          "answer": "Yes, partners should get tested and treated to avoid reinfection."
+        },
+        {
+          "question": "Can I get tested anonymously?",
+          "answer": "Some clinics offer anonymous testing to protect privacy."
+        },
+   
+        {
+          "question": "What is the HPV vaccine?",
+          "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
+        },
+        {
+          "question": "Who should get the HPV vaccine?",
+          "answer": "Recommended for preteens (ages 11-12) but can be given up to age 26 or beyond."
+        },
+        {
+          "question": "Does the HPV vaccine protect against all HPV types?",
+          "answer": "No, it targets the most common high-risk types causing cancers and warts."
+        },
+        {
+          "question": "Is the HPV vaccine safe?",
+          "answer": "Yes, it has a strong safety record with mild side effects like soreness."
+        },
+        {
+          "question": "How many doses of HPV vaccine are needed?",
+          "answer": "Usually 2 or 3 doses depending on age at initial vaccination."
+        },
+        {
+          "question": "Can adults get the HPV vaccine?",
+          "answer": "Yes, adults up to age 45 may benefit, especially if not previously vaccinated."
+        },
+        {
+          "question": "Does the HPV vaccine protect against existing infections?",
+          "answer": "No, it prevents new infections but does not treat existing ones."
+        },
+        {
+          "question": "How effective is the HPV vaccine?",
+          "answer": "Highly effective in preventing targeted HPV infections and related cancers."
+        },
+        {
+          "question": "Are boys and men recommended to get the HPV vaccine?",
+          "answer": "Yes, to prevent genital warts and some cancers."
+        },
+        {
+          "question": "Can I still get cervical cancer after vaccination?",
+          "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
+        },
+    
+ 
+        {
+          "question": "What are the most effective safer sex practices?",
+          "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
+        },
+        {
+          "question": "How do condoms help prevent STIs?",
+          "answer": "Condoms act as a barrier to prevent exchange of bodily fluids, reducing transmission of many STIs."
+        },
+        {
+          "question": "What types of contraception are available?",
+          "answer": "Options include hormonal pills, IUDs, implants, condoms, diaphragms, and fertility awareness methods."
+        },
+        {
+          "question": "Can contraception prevent STIs?",
+          "answer": "Only barrier methods like condoms provide STI protection; hormonal contraceptives prevent pregnancy but not infections."
+        },
+        {
+          "question": "What is dual protection?",
+          "answer": "Using condoms along with another contraceptive method for both pregnancy and STI prevention."
+        },
+        {
+          "question": "Are dental dams effective for safer oral sex?",
+          "answer": "Yes, dental dams reduce STI transmission risk during oral sex."
+        },
+        {
+          "question": "How important is communication in safer sex?",
+          "answer": "Discussing STI status, contraception, and consent openly with partners improves safety."
+        },
+        {
+          "question": "Can you get STIs from oral sex?",
+          "answer": "Yes, many STIs can be transmitted through oral sex."
+        },
+        {
+          "question": "What should I do if a condom breaks during sex?",
+          "answer": "Stop, withdraw carefully, consider emergency contraception and get tested for STIs if needed."
+        },
+        {
+          "question": "Is abstinence the only 100% effective method to prevent STIs?",
+          "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
+        },
+
+        {
+          "question": "What is chlamydia and how is it transmitted?",
+          "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
+        },
+        {
+          "question": "What are symptoms of chlamydia?",
+          "answer": "Often asymptomatic, but can cause pain during urination, discharge, or pelvic pain."
+        },
+        {
+          "question": "What is HPV and why is it important?",
+          "answer": "Human papillomavirus is a common virus that can cause genital warts and some cancers."
+        },
+        {
+          "question": "Can HPV be prevented?",
+          "answer": "Yes, vaccination and safer sex reduce the risk."
+        },
+        {
+          "question": "What is herpes and how does it present?",
+          "answer": "Herpes simplex virus causes painful blisters or sores on or around the genitals or mouth."
+        },
+        {
+          "question": "Can herpes be cured?",
+          "answer": "No cure exists, but antiviral medications help manage outbreaks."
+        },
+        {
+          "question": "How are STIs diagnosed?",
+          "answer": "Through physical exams, swabs, urine tests, or blood tests depending on the infection."
+        },
+        {
+          "question": "Can STIs be transmitted when symptoms are not present?",
+          "answer": "Yes, many STIs can spread even without visible symptoms."
+        },
+        {
+          "question": "What happens if STIs are left untreated?",
+          "answer": "Untreated STIs can cause serious health problems including infertility and increased HIV risk."
+        },
+        {
+          "question": "Are all STIs curable?",
+          "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
+        },
+    
         {
           "question": "What are common symptoms of a yeast infection?",
           "answer": "Itching, thick white discharge, redness, and irritation."
@@ -133,11 +329,9 @@
           "question": "Can vaginal infections recur?",
           "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
         }
-      ]
-    },
-    {
-      "title": "When to Get STI Tested",
-      "qa": [
+      
+    ,
+  
         {
           "question": "When should I get tested for STIs?",
           "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
@@ -177,12 +371,8 @@
         {
           "question": "Can I get tested anonymously?",
           "answer": "Some clinics offer anonymous testing to protect privacy."
-        }
-      ]
-    },
-    {
-      "title": "HPV Vaccination Benefits",
-      "qa": [
+        },
+      
         {
           "question": "What is the HPV vaccine?",
           "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
@@ -222,237 +412,9 @@
         {
           "question": "Can I still get cervical cancer after vaccination?",
           "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
-        }
-      ]
-    },
-    {
-      "title": "Safer Sex Practices & Contraception",
-      "qa": [
-        {
-          "question": "What are the most effective safer sex practices?",
-          "answer": "Using condoms consistently and correctly, limiting the number of sexual partners, and regular STI testing are key safer sex practices."
         },
-        {
-          "question": "How do condoms help prevent STIs?",
-          "answer": "Condoms act as a barrier to prevent exchange of bodily fluids, reducing transmission of many STIs."
-        },
-        {
-          "question": "What types of contraception are available?",
-          "answer": "Options include hormonal pills, IUDs, implants, condoms, diaphragms, and fertility awareness methods."
-        },
-        {
-          "question": "Can contraception prevent STIs?",
-          "answer": "Only barrier methods like condoms provide STI protection; hormonal contraceptives prevent pregnancy but not infections."
-        },
-        {
-          "question": "What is dual protection?",
-          "answer": "Using condoms along with another contraceptive method for both pregnancy and STI prevention."
-        },
-        {
-          "question": "Are dental dams effective for safer oral sex?",
-          "answer": "Yes, dental dams reduce STI transmission risk during oral sex."
-        },
-        {
-          "question": "How important is communication in safer sex?",
-          "answer": "Discussing STI status, contraception, and consent openly with partners improves safety."
-        },
-        {
-          "question": "Can you get STIs from oral sex?",
-          "answer": "Yes, many STIs can be transmitted through oral sex."
-        },
-        {
-          "question": "What should I do if a condom breaks during sex?",
-          "answer": "Stop, withdraw carefully, consider emergency contraception and get tested for STIs if needed."
-        },
-        {
-          "question": "Is abstinence the only 100% effective method to prevent STIs?",
-          "answer": "Yes, abstaining from all sexual contact is the only method guaranteeing zero risk."
-        }
-      ]
-    },
-    {
-      "title": "Common STIs (Chlamydia, HPV, Herpes, etc.)",
-      "qa": [
-        {
-          "question": "What is chlamydia and how is it transmitted?",
-          "answer": "Chlamydia is a bacterial infection spread through vaginal, anal, or oral sex."
-        },
-        {
-          "question": "What are symptoms of chlamydia?",
-          "answer": "Often asymptomatic, but can cause pain during urination, discharge, or pelvic pain."
-        },
-        {
-          "question": "What is HPV and why is it important?",
-          "answer": "Human papillomavirus is a common virus that can cause genital warts and some cancers."
-        },
-        {
-          "question": "Can HPV be prevented?",
-          "answer": "Yes, vaccination and safer sex reduce the risk."
-        },
-        {
-          "question": "What is herpes and how does it present?",
-          "answer": "Herpes simplex virus causes painful blisters or sores on or around the genitals or mouth."
-        },
-        {
-          "question": "Can herpes be cured?",
-          "answer": "No cure exists, but antiviral medications help manage outbreaks."
-        },
-        {
-          "question": "How are STIs diagnosed?",
-          "answer": "Through physical exams, swabs, urine tests, or blood tests depending on the infection."
-        },
-        {
-          "question": "Can STIs be transmitted when symptoms are not present?",
-          "answer": "Yes, many STIs can spread even without visible symptoms."
-        },
-        {
-          "question": "What happens if STIs are left untreated?",
-          "answer": "Untreated STIs can cause serious health problems including infertility and increased HIV risk."
-        },
-        {
-          "question": "Are all STIs curable?",
-          "answer": "No, bacterial STIs are generally curable; viral infections like herpes and HIV are not."
-        }
-      ]
-    },
-    {
-      "title": "Symptoms of Vaginal Infections (Yeast Infections, Bacterial Vaginosis)",
-      "qa": [
-        {
-          "question": "What are common symptoms of a yeast infection?",
-          "answer": "Itching, thick white discharge, redness, and irritation."
-        },
-        {
-          "question": "What causes bacterial vaginosis (BV)?",
-          "answer": "An imbalance of normal vaginal bacteria leads to BV."
-        },
-        {
-          "question": "How can you tell the difference between yeast infection and BV?",
-          "answer": "Yeast infection usually has thick, white discharge; BV causes thin, grayish discharge with fishy odor."
-        },
-        {
-          "question": "Are vaginal infections contagious?",
-          "answer": "Yeast infections are usually not sexually transmitted; BV is linked to sexual activity but not classified as an STI."
-        },
-        {
-          "question": "How are yeast infections treated?",
-          "answer": "Antifungal creams or oral medications prescribed by a healthcare provider."
-        },
-        {
-          "question": "How is bacterial vaginosis treated?",
-          "answer": "Antibiotics such as metronidazole or clindamycin."
-        },
-        {
-          "question": "Can vaginal infections affect pregnancy?",
-          "answer": "Yes, untreated infections can increase risks of complications."
-        },
-        {
-          "question": "How can vaginal infections be prevented?",
-          "answer": "Good hygiene, avoiding irritants, wearing breathable cotton underwear, and safe sex practices."
-        },
-        {
-          "question": "Should I see a doctor if I have vaginal symptoms?",
-          "answer": "Yes, to get proper diagnosis and treatment."
-        },
-        {
-          "question": "Can vaginal infections recur?",
-          "answer": "Yes, especially yeast infections, but proper treatment and lifestyle help reduce recurrence."
-        }
-      ]
-    },
-    {
-      "title": "When to Get STI Tested",
-      "qa": [
-        {
-          "question": "When should I get tested for STIs?",
-          "answer": "After unprotected sex, if you have symptoms, or regularly if sexually active with multiple partners."
-        },
-        {
-          "question": "How often should sexually active people get tested?",
-          "answer": "At least once a year or more frequently based on risk factors."
-        },
-        {
-          "question": "Can I get tested even without symptoms?",
-          "answer": "Yes, many STIs can be asymptomatic but still contagious."
-        },
-        {
-          "question": "Where can I get tested for STIs?",
-          "answer": "Healthcare providers, clinics, sexual health centers, and some pharmacies."
-        },
-        {
-          "question": "Are STI tests confidential?",
-          "answer": "Yes, most testing sites maintain confidentiality."
-        },
-        {
-          "question": "What types of samples are used for STI testing?",
-          "answer": "Urine, blood, swabs from genital, oral, or rectal areas depending on the test."
-        },
-        {
-          "question": "How long does it take to get STI test results?",
-          "answer": "Results may take from a few days to a week."
-        },
-        {
-          "question": "What happens if I test positive for an STI?",
-          "answer": "You will receive treatment options and counseling on preventing transmission."
-        },
-        {
-          "question": "Should my partner get tested too?",
-          "answer": "Yes, partners should get tested and treated to avoid reinfection."
-        },
-        {
-          "question": "Can I get tested anonymously?",
-          "answer": "Some clinics offer anonymous testing to protect privacy."
-        }
-      ]
-    },
-    {
-      "title": "HPV Vaccination Benefits",
-      "qa": [
-        {
-          "question": "What is the HPV vaccine?",
-          "answer": "A vaccine that protects against human papillomavirus strains that cause cervical and other cancers."
-        },
-        {
-          "question": "Who should get the HPV vaccine?",
-          "answer": "Recommended for preteens (ages 11-12) but can be given up to age 26 or beyond."
-        },
-        {
-          "question": "Does the HPV vaccine protect against all HPV types?",
-          "answer": "No, it targets the most common high-risk types causing cancers and warts."
-        },
-        {
-          "question": "Is the HPV vaccine safe?",
-          "answer": "Yes, it has a strong safety record with mild side effects like soreness."
-        },
-        {
-          "question": "How many doses of HPV vaccine are needed?",
-          "answer": "Usually 2 or 3 doses depending on age at initial vaccination."
-        },
-        {
-          "question": "Can adults get the HPV vaccine?",
-          "answer": "Yes, adults up to age 45 may benefit, especially if not previously vaccinated."
-        },
-        {
-          "question": "Does the HPV vaccine protect against existing infections?",
-          "answer": "No, it prevents new infections but does not treat existing ones."
-        },
-        {
-          "question": "How effective is the HPV vaccine?",
-          "answer": "Highly effective in preventing targeted HPV infections and related cancers."
-        },
-        {
-          "question": "Are boys and men recommended to get the HPV vaccine?",
-          "answer": "Yes, to prevent genital warts and some cancers."
-        },
-        {
-          "question": "Can I still get cervical cancer after vaccination?",
-          "answer": "Vaccination greatly reduces risk but regular screening is still necessary."
-        }
-      ]
-    },
-    {
-      "title": "Birth Control Options (pills, IUDs, implants, etc.)",
-      "qa": [
+   
+    
         {
           "question": "What are the most common types of birth control?",
           "answer": "Options include pills, patches, IUDs, implants, condoms, diaphragms, and sterilization."
@@ -492,12 +454,9 @@
         {
           "question": "Can birth control help with period problems?",
           "answer": "Yes, hormonal methods can regulate cycles, reduce cramps, and lighten periods."
-        }
-      ]
-    },
-    {
-      "title": "PCOS (Polycystic Ovary Syndrome) & Symptoms",
-      "qa": [
+        },
+      
+    
         {
           "question": "What is PCOS?",
           "answer": "Polycystic Ovary Syndrome (PCOS) is a hormonal disorder causing irregular periods and cysts on the ovaries."
@@ -537,12 +496,8 @@
         {
           "question": "Can PCOS go away on its own?",
           "answer": "No, but symptoms can be managed with treatment and lifestyle changes."
-        }
-      ]
-    },
-    {
-      "title": "Endometriosis Basics",
-      "qa": [
+        },
+      
         {
           "question": "What is endometriosis?",
           "answer": "Endometriosis is a condition where tissue similar to the uterine lining grows outside the uterus."
@@ -582,12 +537,8 @@
         {
           "question": "Can diet help manage endometriosis?",
           "answer": "A balanced diet with anti-inflammatory foods may help reduce symptoms."
-        }
-      ]
-    },
-    {
-      "title": "Fertility Awareness (Ovulation Tracking, Fertile Window)",
-      "qa": [
+        },
+      
         {
           "question": "What is fertility awareness?",
           "answer": "It's tracking your menstrual cycle to identify your most fertile days."
@@ -627,12 +578,9 @@
         {
           "question": "Does stress affect fertility awareness tracking?",
           "answer": "Yes, stress and lifestyle changes can affect your cycle and tracking accuracy."
-        }
-      ]
-    },
-    {
-      "title": "Miscarriage Support & Resources",
-      "qa": [
+        },
+      
+
         {
           "question": "What is a miscarriage?",
           "answer": "A miscarriage is the loss of a pregnancy before 20 weeks."
@@ -672,12 +620,8 @@
         {
           "question": "Can I grieve in my own way after miscarriage?",
           "answer": "Yes, everyone’s experience is unique. Allow yourself to feel and seek support as needed."
-        }
-      ]
-    },
-    {
-      "title": "Morning Sickness & Remedies",
-      "qa": [
+        },
+    
         {
           "question": "What causes morning sickness?",
           "answer": "Hormonal changes, especially increased hCG and estrogen, cause nausea during pregnancy."
@@ -717,12 +661,8 @@
         {
           "question": "When should I see a doctor for morning sickness?",
           "answer": "If you can’t keep any food or fluids down or are losing weight, contact your doctor."
-        }
-      ]
-    },
-    {
-      "title": "Foods to Avoid During Pregnancy",
-      "qa": [
+        },
+     
         {
           "question": "What foods should I avoid completely during pregnancy?",
           "answer": "Raw seafood, unpasteurized dairy, deli meats, raw eggs, and high-mercury fish like shark and swordfish."
@@ -762,12 +702,8 @@
         {
           "question": "Why should I avoid high-mercury fish?",
           "answer": "Mercury can harm your baby’s brain and nervous system."
-        }
-      ]
-    },
-    {
-      "title": "Safe Medications in Pregnancy",
-      "qa": [
+        },
+      
         {
           "question": "Is it safe to take acetaminophen while pregnant?",
           "answer": "Yes, acetaminophen (Tylenol) is generally considered safe when used as directed."
@@ -807,12 +743,8 @@
         {
           "question": "Should I stop taking medications I was on before pregnancy?",
           "answer": "Not necessarily. Talk to your doctor to adjust or continue medications safely."
-        }
-      ]
-    },
-    {
-      "title": "Postpartum Depression & Baby Blues",
-      "qa": [
+        },
+     
         {
           "question": "What is the baby blues?",
           "answer": "Mild mood swings, crying, and irritability that start a few days after birth and usually go away within 2 weeks."
@@ -852,12 +784,8 @@
         {
           "question": "Can postpartum depression affect my baby?",
           "answer": "Untreated depression can affect bonding and development. Seeking help can improve outcomes for both of you."
-        }
-      ]
-    },
-    {
-      "title": "Breastfeeding Tips and Challenges",
-      "qa": [
+        },
+     
         {
           "question": "How often should I breastfeed my newborn?",
           "answer": "Feed your baby 8–12 times in 24 hours, whenever they show hunger cues."
@@ -897,12 +825,8 @@
         {
           "question": "Should I wake my baby to feed?",
           "answer": "In the first few weeks, yes, if they sleep longer than 3–4 hours to ensure enough milk intake."
-        }
-      ]
-    },
-    {
-      "title": "Postpartum Recovery (Physical and Mental)",
-      "qa": [
+        },
+    
         {
           "question": "How long does postpartum recovery take?",
           "answer": "It varies—physical healing can take 6–8 weeks, but full recovery can take months."
@@ -942,12 +866,8 @@
         {
           "question": "Is it normal to feel overwhelmed as a new parent?",
           "answer": "Yes, it’s a big adjustment! Support from family, friends, and professionals can help."
-        }
-      ]
-    },
-    {
-      "title": "Stress Management & Self-Care",
-      "qa": [
+        },
+     
         {
           "question": "What are effective ways to manage stress?",
           "answer": "Practicing mindfulness, regular exercise, adequate sleep, deep breathing exercises, and setting healthy boundaries help manage stress."
@@ -987,12 +907,8 @@
         {
           "question": "When should someone seek professional help for stress?",
           "answer": "If stress is persistent, overwhelming, or interfering with daily life, consulting a mental health professional is recommended."
-        }
-      ]
-    },
-    {
-      "title": "Body Image & Self-Esteem",
-      "qa": [
+        },
+      
         {
           "question": "How does body image affect mental health?",
           "answer": "Negative body image can lead to low self-esteem, depression, and disordered eating."
@@ -1032,12 +948,8 @@
         {
           "question": "What are signs of poor body image?",
           "answer": "Preoccupation with appearance, avoidance of social situations, and negative self-talk."
-        }
-      ]
-    },
-    {
-      "title": "Managing Anxiety Around Fertility & Pregnancy",
-      "qa": [
+        },
+     
         {
           "question": "What causes anxiety related to fertility and pregnancy?",
           "answer": "Uncertainty about outcomes, past losses, hormonal changes, and social pressures can contribute."
@@ -1077,12 +989,8 @@
         {
           "question": "Are there support resources for fertility-related anxiety?",
           "answer": "Yes, many clinics offer counseling, and there are support groups for individuals facing fertility challenges."
-        }
-      ]
-    },
-    {
-      "title": "Relationship Health (Communication, Intimacy)",
-      "qa": [
+        },
+      
         {
           "question": "Why is communication important in relationships?",
           "answer": "Effective communication builds trust, resolves conflicts, and strengthens emotional connection."
@@ -1122,12 +1030,8 @@
         {
           "question": "When should couples consider relationship counseling?",
           "answer": "If communication breakdowns persist, conflicts escalate, or intimacy issues affect wellbeing."
-        }
-      ]
-    },
-    {
-      "title": "Managing Heavy Periods (Menorrhagia)",
-      "qa": [
+        },
+     
         {
           "question": "What is considered a heavy period?",
           "answer": "A heavy period means soaking through a pad or tampon every hour for several hours, passing large blood clots, or bleeding for longer than 7 days."
@@ -1167,12 +1071,8 @@
         {
           "question": "Is it normal to pass large blood clots during my period?",
           "answer": "Occasional small clots are normal. Large clots (bigger than a quarter) or frequent clots may be a sign of a heavy flow and should be checked."
-        }
-      ]
-    },
-    {
-      "title": "Tracking Cycle Regularity",
-      "qa": [
+        },
+
         {
           "question": "What is a normal menstrual cycle length?",
           "answer": "A normal cycle lasts between 21 and 35 days, with bleeding for 3–7 days."
@@ -1212,12 +1112,8 @@
         {
           "question": "Should I talk to a doctor if my cycles are always irregular?",
           "answer": "Yes, irregular cycles for several months might need evaluation for underlying conditions."
-        }
-      ]
-    },
-    {
-      "title": "PMS vs. PMDD",
-      "qa": [
+        },
+     
         {
           "question": "What’s the difference between PMS and PMDD?",
           "answer": "PMS causes mild mood or physical symptoms. PMDD causes severe mood changes (depression, anger) that interfere with daily life."
@@ -1257,12 +1153,8 @@
         {
           "question": "Should I see a doctor if I think I have PMDD?",
           "answer": "Yes, PMDD is treatable, and your doctor can help find the best plan for you."
-        }
-      ]
-    },
-    {
-      "title": "Menstrual Hygiene (Tampons, Pads, Cups)",
-      "qa": [
+        },
+     
         {
           "question": "What’s the best product for menstrual hygiene?",
           "answer": "The best product depends on comfort and lifestyle. Pads, tampons, cups, and period underwear are all safe options."
@@ -1302,12 +1194,8 @@
         {
           "question": "Are there eco-friendly period product options?",
           "answer": "Yes! Menstrual cups, reusable pads, and period underwear reduce waste and are more sustainable."
-        }
-      ]
-    },
-    {
-      "title": "Period Myths & Facts",
-      "qa": [
+        },
+     
         {
           "question": "Can I swim while on my period?",
           "answer": "Yes! Tampons or menstrual cups can be used for swimming."
@@ -1347,12 +1235,8 @@
         {
           "question": "Is it bad to use birth control to skip periods?",
           "answer": "No, skipping periods with birth control is safe for most people. Always check with your doctor."
-        }
-      ]
-    },
-    {
-      "title": "Amenorrhea (Missed Periods)",
-      "qa": [
+        },
+      
         {
           "question": "What is amenorrhea?",
           "answer": "It’s the absence of a period for 3+ months in someone with previous regular cycles, or 6+ months if cycles were irregular."
@@ -1392,12 +1276,8 @@
         {
           "question": "What can I do if I haven’t had a period for several months?",
           "answer": "See your doctor for evaluation. Treatment depends on the cause—like hormonal therapy or lifestyle changes."
-        }
-      ]
-    },
-    {
-      "title": "Perimenopause Symptoms",
-      "qa": [
+        },
+      
         {
           "question": "What is perimenopause?",
           "answer": "Perimenopause is the transitional phase before menopause when hormone levels begin to fluctuate."
@@ -1437,12 +1317,8 @@
         {
           "question": "Are mood changes common in perimenopause?",
           "answer": "Yes, fluctuating hormones can cause mood swings, anxiety, or depression."
-        }
-      ]
-    },
-    {
-      "title": "Hot Flashes & Night Sweats",
-      "qa": [
+        },
+     
         {
           "question": "What causes hot flashes during menopause?",
           "answer": "Hormonal changes affect the body's temperature regulation, causing hot flashes."
@@ -1482,12 +1358,8 @@
         {
           "question": "When should I see a doctor about hot flashes?",
           "answer": "If they severely disrupt your life or you want treatment options."
-        }
-      ]
-    },
-    {
-      "title": "Hormone Replacement Therapy (HRT) Pros/Cons",
-      "qa": [
+        },
+     
         {
           "question": "What is hormone replacement therapy (HRT)?",
           "answer": "HRT is the use of estrogen and sometimes progesterone to relieve menopausal symptoms."
@@ -1527,12 +1399,8 @@
         {
           "question": "What alternatives exist if I can’t use HRT?",
           "answer": "Non-hormonal medications, lifestyle changes, and natural remedies can help."
-        }
-      ]
-    },
-    {
-      "title": "Bone Health After Menopause",
-      "qa": [
+        },
+      
         {
           "question": "Why does menopause affect bone health?",
           "answer": "Lower estrogen levels increase bone loss, raising osteoporosis risk."
@@ -1572,12 +1440,8 @@
         {
           "question": "Can fractures from osteoporosis be prevented?",
           "answer": "Yes, with proper bone health management and fall prevention."
-        }
-      ]
-    },
-    {
-      "title": "Sexual Health During Menopause",
-      "qa": [
+        },
+     
         {
           "question": "How does menopause affect sexual health?",
           "answer": "Hormonal changes can reduce libido, cause vaginal dryness, and discomfort."
@@ -1617,12 +1481,8 @@
         {
           "question": "When should I see a doctor about sexual health issues?",
           "answer": "If discomfort, pain, or loss of desire impacts your quality of life."
-        }
-      ]
-    },
-    {
-      "title": "Exercise Tips for Different Life Stages",
-      "qa": [
+        },
+     
         {
           "question": "What types of exercise are recommended for adolescent girls?",
           "answer": "Adolescent girls benefit from a mix of aerobic exercises, strength training, and flexibility exercises to support growth and bone health."
@@ -1662,12 +1522,8 @@
         {
           "question": "When should women consult a doctor before starting exercise?",
           "answer": "Women with chronic conditions, pregnancy, or new symptoms should seek medical advice before starting a new routine."
-        }
-      ]
-    },
-    {
-      "title": "Nutrition for Reproductive Health",
-      "qa": [
+        },
+      
         {
           "question": "What nutrients are important for reproductive health?",
           "answer": "Folate, iron, calcium, vitamin D, omega-3 fatty acids, and antioxidants support reproductive function."
@@ -1707,12 +1563,8 @@
         {
           "question": "What is the role of omega-3 fatty acids in reproductive health?",
           "answer": "They support hormone production, reduce inflammation, and promote fetal brain development."
-        }
-      ]
-    },
-    {
-      "title": "Sleep Hygiene for Hormone Balance",
-      "qa": [
+        },
+   
         {
           "question": "How does sleep affect hormone regulation?",
           "answer": "Sleep regulates hormones like cortisol, insulin, and reproductive hormones essential for health."
@@ -1752,12 +1604,8 @@
         {
           "question": "When should sleep issues be evaluated by a doctor?",
           "answer": "If sleep problems persist and affect daily life or mental health, medical evaluation is recommended."
-        }
-      ]
-    },
-    {
-      "title": "Screening Guidelines (Pap Smear, Bone Density Tests, etc.)",
-      "qa": [
+        },
+     
         {
           "question": "When should women start getting Pap smears?",
           "answer": "Women should start Pap smears at age 21 and continue every 3 years if results are normal."
@@ -1797,12 +1645,8 @@
         {
           "question": "Why is regular screening important?",
           "answer": "Early detection of diseases improves treatment outcomes and long-term health."
-        }
-      ]
-    },
-    {
-      "title": "Preventive Care Checklists",
-      "qa": [
+        },
+      
         {
           "question": "What should be included in a preventive care checklist for women?",
           "answer": "Vaccinations, screenings (cervical, breast, bone density), lifestyle counseling, and mental health assessments."
@@ -1842,12 +1686,8 @@
         {
           "question": "What are some barriers to preventive care and how can they be overcome?",
           "answer": "Barriers include cost, access, and lack of awareness; solutions include insurance coverage, education, and community resources."
-        }
-      ]
-    },
-    {
-      "title": "Breastfeeding vs. Formula Feeding",
-      "qa": [
+        },
+    
         {
           "question": "What are the benefits of breastfeeding for the baby?",
           "answer": "Breast milk provides ideal nutrition, antibodies for immunity, and promotes bonding."
@@ -1887,12 +1727,8 @@
         {
           "question": "How long is breastfeeding recommended?",
           "answer": "Exclusive breastfeeding is recommended for 6 months, with continued breastfeeding up to 1 year or more."
-        }
-      ]
-    },
-    {
-      "title": "When to Get a Mammogram",
-      "qa": [
+        },
+      
         {
           "question": "What is a mammogram?",
           "answer": "A mammogram is an X-ray exam of the breast used to detect cancer early."
@@ -1932,12 +1768,8 @@
         {
           "question": "What happens if a mammogram shows an abnormality?",
           "answer": "Further tests like ultrasound, MRI, or biopsy may be needed to diagnose."
-        }
-      ]
-    },
-    {
-      "title": "What to Expect During a Mammogram",
-      "qa": [
+        },
+     
         {
           "question": "How long does a mammogram take?",
           "answer": "Usually about 20 minutes."
@@ -1977,12 +1809,8 @@
         {
           "question": "When will I get results?",
           "answer": "Usually within a few days to a week."
-        }
-      ]
-    },
-    {
-      "title": "Breast Changes with Age",
-      "qa": [
+        },
+      
         {
           "question": "How do breasts change with age?",
           "answer": "Breasts may become less dense, more fatty, and less firm over time."
@@ -2022,12 +1850,8 @@
         {
           "question": "Can lifestyle affect breast health as I age?",
           "answer": "Yes, exercise, diet, and avoiding smoking support healthy breast tissue."
-        }
-      ]
-    },
-    {
-      "title": "Benign Breast Conditions",
-      "qa": [
+        },
+     
         {
           "question": "What are fibrocystic breasts?",
           "answer": "A common benign condition causing lumpy, tender breasts often linked to hormonal changes."
@@ -2068,7 +1892,4 @@
           "question": "When should I see a doctor about breast lumps?",
           "answer": "If lumps persist, grow, or are associated with other symptoms like nipple discharge."
         }
-      ]
-    }
-  ]
-}
+   ]

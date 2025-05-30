@@ -4,7 +4,7 @@ from transformers.training_args import TrainingArguments
 from transformers.trainer import Trainer
 
 # Load your dataset, specify split to get a Dataset (not DatasetDict)
-dataset = load_dataset("json", data_files="merged_data.json", split="train")
+dataset = load_dataset("json", data_files="data/merged_data.json", split="train")
 
 # Preprocess the dataset to merge prompt and response into a single text field
 def preprocess(examples):
