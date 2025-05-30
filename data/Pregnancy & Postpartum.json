@@ -1,0 +1,275 @@
+{
+    "topics": [
+      {
+        "title": "Morning Sickness & Remedies",
+        "qa": [
+          {
+            "question": "What causes morning sickness?",
+            "answer": "Hormonal changes, especially increased hCG and estrogen, cause nausea during pregnancy."
+          },
+          {
+            "question": "When does morning sickness usually start?",
+            "answer": "It typically starts around 6 weeks of pregnancy and peaks around 9–10 weeks."
+          },
+          {
+            "question": "Is it normal to have morning sickness at night?",
+            "answer": "Yes, despite the name, morning sickness can happen anytime."
+          },
+          {
+            "question": "What are some natural remedies for morning sickness?",
+            "answer": "Eating small, frequent meals, ginger tea, vitamin B6, and acupressure bands can help."
+          },
+          {
+            "question": "Can dehydration make morning sickness worse?",
+            "answer": "Yes, staying hydrated can help reduce nausea and prevent complications."
+          },
+          {
+            "question": "Are there safe medications for morning sickness?",
+            "answer": "Yes, vitamin B6 supplements and doxylamine are often recommended. Talk to your doctor."
+          },
+          {
+            "question": "Is severe morning sickness dangerous?",
+            "answer": "Severe cases (hyperemesis gravidarum) can lead to dehydration and weight loss and require medical attention."
+          },
+          {
+            "question": "Can morning sickness harm my baby?",
+            "answer": "Mild morning sickness does not harm the baby. Severe cases need treatment."
+          },
+          {
+            "question": "Does morning sickness mean I’m having a girl?",
+            "answer": "No, there’s no scientific link between morning sickness severity and baby’s sex."
+          },
+          {
+            "question": "When should I see a doctor for morning sickness?",
+            "answer": "If you can’t keep any food or fluids down or are losing weight, contact your doctor."
+          }
+        ]
+      },
+      {
+        "title": "Foods to Avoid During Pregnancy",
+        "qa": [
+          {
+            "question": "What foods should I avoid completely during pregnancy?",
+            "answer": "Raw seafood, unpasteurized dairy, deli meats, raw eggs, and high-mercury fish like shark and swordfish."
+          },
+          {
+            "question": "Why should I avoid unpasteurized cheese?",
+            "answer": "They can carry listeria, which can harm your baby."
+          },
+          {
+            "question": "Are raw or undercooked eggs dangerous?",
+            "answer": "Yes, they can cause salmonella infection."
+          },
+          {
+            "question": "Can I eat sushi while pregnant?",
+            "answer": "It’s best to avoid raw sushi because of parasite and bacteria risks."
+          },
+          {
+            "question": "What about caffeine during pregnancy?",
+            "answer": "Keep it under 200 mg per day (about one 12-ounce coffee) to avoid risks."
+          },
+          {
+            "question": "Can I eat deli meats if they’re heated?",
+            "answer": "Yes, heating deli meats until steaming hot kills listeria."
+          },
+          {
+            "question": "Are herbal teas safe during pregnancy?",
+            "answer": "Some are safe (like ginger or peppermint), but avoid ones like licorice or ginseng without doctor approval."
+          },
+          {
+            "question": "What about artificial sweeteners?",
+            "answer": "Most are safe in moderation (like aspartame or sucralose), but avoid saccharin."
+          },
+          {
+            "question": "Can I eat soft-serve ice cream?",
+            "answer": "Avoid it from machines (risk of listeria), but commercially frozen soft-serve is typically safe."
+          },
+          {
+            "question": "Why should I avoid high-mercury fish?",
+            "answer": "Mercury can harm your baby’s brain and nervous system."
+          }
+        ]
+      },
+      {
+        "title": "Safe Medications in Pregnancy",
+        "qa": [
+          {
+            "question": "Is it safe to take acetaminophen while pregnant?",
+            "answer": "Yes, acetaminophen (Tylenol) is generally considered safe when used as directed."
+          },
+          {
+            "question": "Can I take ibuprofen while pregnant?",
+            "answer": "No, avoid ibuprofen and NSAIDs in the third trimester due to risks for the baby."
+          },
+          {
+            "question": "Are antacids safe for heartburn?",
+            "answer": "Yes, antacids like Tums are usually safe. Avoid those with high aluminum content."
+          },
+          {
+            "question": "What can I take for allergies during pregnancy?",
+            "answer": "Loratadine (Claritin) and cetirizine (Zyrtec) are generally safe. Always check with your doctor."
+          },
+          {
+            "question": "Are antibiotics safe if I have an infection?",
+            "answer": "Many antibiotics are safe in pregnancy. Your doctor will choose the best option."
+          },
+          {
+            "question": "Can I take cold medicine while pregnant?",
+            "answer": "Avoid decongestants like pseudoephedrine in the first trimester. Talk to your doctor for safe options."
+          },
+          {
+            "question": "Is it safe to take prenatal vitamins?",
+            "answer": "Yes! They’re recommended to support a healthy pregnancy."
+          },
+          {
+            "question": "Can I take herbal supplements?",
+            "answer": "Avoid herbal supplements without doctor approval, as many haven’t been proven safe."
+          },
+          {
+            "question": "What about probiotics?",
+            "answer": "Probiotics are generally considered safe but discuss with your doctor first."
+          },
+          {
+            "question": "Should I stop taking medications I was on before pregnancy?",
+            "answer": "Not necessarily. Talk to your doctor to adjust or continue medications safely."
+          }
+        ]
+      },
+      {
+        "title": "Postpartum Depression & Baby Blues",
+        "qa": [
+          {
+            "question": "What is the baby blues?",
+            "answer": "Mild mood swings, crying, and irritability that start a few days after birth and usually go away within 2 weeks."
+          },
+          {
+            "question": "What is postpartum depression?",
+            "answer": "More severe and long-lasting depression that affects your ability to care for yourself and your baby."
+          },
+          {
+            "question": "How common is postpartum depression?",
+            "answer": "About 10–15% of new moms experience it."
+          },
+          {
+            "question": "What are symptoms of postpartum depression?",
+            "answer": "Intense sadness, anxiety, loss of interest in activities, and trouble bonding with your baby."
+          },
+          {
+            "question": "Is it my fault if I have postpartum depression?",
+            "answer": "No! It’s a medical condition caused by hormonal shifts, stress, and genetics."
+          },
+          {
+            "question": "Can partners experience postpartum depression too?",
+            "answer": "Yes, partners can also experience depression after a baby’s birth."
+          },
+          {
+            "question": "What’s the difference between baby blues and postpartum depression?",
+            "answer": "Baby blues are temporary and mild, while postpartum depression is more intense and lasts longer."
+          },
+          {
+            "question": "When should I seek help for postpartum depression?",
+            "answer": "If feelings of sadness or anxiety don’t improve after 2 weeks or interfere with daily life, talk to your doctor."
+          },
+          {
+            "question": "Are treatments available for postpartum depression?",
+            "answer": "Yes, therapy, medication, and support groups can help you recover."
+          },
+          {
+            "question": "Can postpartum depression affect my baby?",
+            "answer": "Untreated depression can affect bonding and development. Seeking help can improve outcomes for both of you."
+          }
+        ]
+      },
+      {
+        "title": "Breastfeeding Tips and Challenges",
+        "qa": [
+          {
+            "question": "How often should I breastfeed my newborn?",
+            "answer": "Feed your baby 8–12 times in 24 hours, whenever they show hunger cues."
+          },
+          {
+            "question": "Does breastfeeding hurt at first?",
+            "answer": "It can be uncomfortable initially, but if it’s very painful, consult a lactation consultant."
+          },
+          {
+            "question": "What foods should I eat to support breastfeeding?",
+            "answer": "Eat a balanced diet rich in protein, whole grains, and veggies. Stay hydrated!"
+          },
+          {
+            "question": "Can I drink caffeine while breastfeeding?",
+            "answer": "Yes, up to 200–300 mg per day (about 1–2 cups of coffee) is considered safe."
+          },
+          {
+            "question": "How do I know if my baby is getting enough milk?",
+            "answer": "Look for 6–8 wet diapers a day, steady weight gain, and contentment after feeds."
+          },
+          {
+            "question": "What can I do about sore nipples?",
+            "answer": "Ensure a good latch, use lanolin cream, and let nipples air dry after feeding."
+          },
+          {
+            "question": "Is it normal for my milk supply to vary?",
+            "answer": "Yes, supply can fluctuate. Frequent nursing or pumping helps maintain it."
+          },
+          {
+            "question": "Can I breastfeed if I’m sick?",
+            "answer": "Yes, breastfeeding passes antibodies to your baby and is safe unless your doctor says otherwise."
+          },
+          {
+            "question": "What if I can’t breastfeed directly?",
+            "answer": "Pumping and bottle-feeding breast milk is a great option."
+          },
+          {
+            "question": "Should I wake my baby to feed?",
+            "answer": "In the first few weeks, yes, if they sleep longer than 3–4 hours to ensure enough milk intake."
+          }
+        ]
+      },
+      {
+        "title": "Postpartum Recovery (Physical and Mental)",
+        "qa": [
+          {
+            "question": "How long does postpartum recovery take?",
+            "answer": "It varies—physical healing can take 6–8 weeks, but full recovery can take months."
+          },
+          {
+            "question": "What are common physical changes after birth?",
+            "answer": "Vaginal soreness, bleeding, breast engorgement, and fatigue are normal."
+          },
+          {
+            "question": "How can I care for my perineum after birth?",
+            "answer": "Use ice packs, sitz baths, and pain relief medications as needed."
+          },
+          {
+            "question": "When can I start exercising after birth?",
+            "answer": "Light exercises like walking are fine once you feel up to it. For intense exercise, check with your doctor after 6 weeks."
+          },
+          {
+            "question": "Is hair loss normal postpartum?",
+            "answer": "Yes, postpartum hair shedding is common due to hormone changes."
+          },
+          {
+            "question": "When should I see a doctor for postpartum bleeding?",
+            "answer": "If you have heavy bleeding (soaking a pad in an hour), clots, or fever, call your doctor."
+          },
+          {
+            "question": "How can I manage postpartum mood changes?",
+            "answer": "Rest, talk to loved ones, and consider professional help if needed."
+          },
+          {
+            "question": "Can I have sex after giving birth?",
+            "answer": "Most doctors recommend waiting 6 weeks to allow healing, but listen to your body and comfort."
+          },
+          {
+            "question": "What can help with postpartum fatigue?",
+            "answer": "Prioritize rest, accept help, eat nutritious foods, and sleep when baby sleeps."
+          },
+          {
+            "question": "Is it normal to feel overwhelmed as a new parent?",
+            "answer": "Yes, it’s a big adjustment! Support from family, friends, and professionals can help."
+          }
+        ]
+      }
+    ]
+  }
+  

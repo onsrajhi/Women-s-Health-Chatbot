@@ -1,0 +1,230 @@
+{
+    "topics": [
+      {
+        "title": "Birth Control Options (pills, IUDs, implants, etc.)",
+        "qa": [
+          {
+            "question": "What are the most common types of birth control?",
+            "answer": "Options include pills, patches, IUDs, implants, condoms, diaphragms, and sterilization."
+          },
+          {
+            "question": "How effective is the birth control pill?",
+            "answer": "When taken correctly, it's about 99% effective at preventing pregnancy."
+          },
+          {
+            "question": "What is an IUD and how does it work?",
+            "answer": "An IUD is a small T-shaped device placed in the uterus that prevents pregnancy for 3–10 years."
+          },
+          {
+            "question": "Are implants a good long-term option?",
+            "answer": "Yes, implants (like Nexplanon) are effective for up to 3 years and are over 99% reliable."
+          },
+          {
+            "question": "Can I stop using birth control whenever I want?",
+            "answer": "Yes, but discuss with your doctor about your future plans and potential effects on fertility."
+          },
+          {
+            "question": "Are there side effects to using birth control?",
+            "answer": "Possible side effects include nausea, breast tenderness, mood changes, and irregular bleeding."
+          },
+          {
+            "question": "Does birth control protect against STIs?",
+            "answer": "No, only condoms protect against sexually transmitted infections (STIs)."
+          },
+          {
+            "question": "How do I choose the right birth control method?",
+            "answer": "Consider effectiveness, convenience, side effects, and personal health goals. Talk to your doctor."
+          },
+          {
+            "question": "Is emergency contraception a type of birth control?",
+            "answer": "Yes, it's a backup method to prevent pregnancy after unprotected sex."
+          },
+          {
+            "question": "Can birth control help with period problems?",
+            "answer": "Yes, hormonal methods can regulate cycles, reduce cramps, and lighten periods."
+          }
+        ]
+      },
+      {
+        "title": "PCOS (Polycystic Ovary Syndrome) & Symptoms",
+        "qa": [
+          {
+            "question": "What is PCOS?",
+            "answer": "Polycystic Ovary Syndrome (PCOS) is a hormonal disorder causing irregular periods and cysts on the ovaries."
+          },
+          {
+            "question": "What are common symptoms of PCOS?",
+            "answer": "Irregular periods, acne, excess hair growth (hirsutism), and weight gain are common."
+          },
+          {
+            "question": "What causes PCOS?",
+            "answer": "The exact cause isn’t known, but it involves hormonal imbalances and insulin resistance."
+          },
+          {
+            "question": "Can PCOS affect fertility?",
+            "answer": "Yes, it can make it harder to get pregnant due to irregular ovulation."
+          },
+          {
+            "question": "How is PCOS diagnosed?",
+            "answer": "Diagnosis usually includes blood tests, a physical exam, and sometimes an ultrasound."
+          },
+          {
+            "question": "Can PCOS be managed naturally?",
+            "answer": "Healthy diet, regular exercise, and weight management can help manage symptoms."
+          },
+          {
+            "question": "What medications can help with PCOS?",
+            "answer": "Birth control pills, anti-androgen medications, and metformin are often used."
+          },
+          {
+            "question": "Does PCOS increase my risk for other health issues?",
+            "answer": "Yes, it raises the risk for type 2 diabetes, high blood pressure, and heart disease."
+          },
+          {
+            "question": "Is hair loss common in PCOS?",
+            "answer": "Yes, some women experience thinning hair due to hormonal imbalances."
+          },
+          {
+            "question": "Can PCOS go away on its own?",
+            "answer": "No, but symptoms can be managed with treatment and lifestyle changes."
+          }
+        ]
+      },
+      {
+        "title": "Endometriosis Basics",
+        "qa": [
+          {
+            "question": "What is endometriosis?",
+            "answer": "Endometriosis is a condition where tissue similar to the uterine lining grows outside the uterus."
+          },
+          {
+            "question": "What are the main symptoms of endometriosis?",
+            "answer": "Painful periods, pelvic pain, pain during sex, and infertility are common symptoms."
+          },
+          {
+            "question": "How common is endometriosis?",
+            "answer": "It affects about 1 in 10 people assigned female at birth."
+          },
+          {
+            "question": "Can endometriosis affect fertility?",
+            "answer": "Yes, it can make it harder to conceive due to inflammation and scarring."
+          },
+          {
+            "question": "What causes endometriosis?",
+            "answer": "The exact cause is unknown but may involve genetics, immune system issues, and retrograde menstruation."
+          },
+          {
+            "question": "How is endometriosis diagnosed?",
+            "answer": "Diagnosis is usually through laparoscopy, a minimally invasive surgery."
+          },
+          {
+            "question": "Is there a cure for endometriosis?",
+            "answer": "There’s no cure, but symptoms can be managed with medication, surgery, and lifestyle changes."
+          },
+          {
+            "question": "Can endometriosis pain be treated?",
+            "answer": "Yes, pain relievers, hormonal therapy, and surgery can help."
+          },
+          {
+            "question": "Does endometriosis go away after menopause?",
+            "answer": "Symptoms often improve after menopause when estrogen levels drop."
+          },
+          {
+            "question": "Can diet help manage endometriosis?",
+            "answer": "A balanced diet with anti-inflammatory foods may help reduce symptoms."
+          }
+        ]
+      },
+      {
+        "title": "Fertility Awareness (Ovulation Tracking, Fertile Window)",
+        "qa": [
+          {
+            "question": "What is fertility awareness?",
+            "answer": "It's tracking your menstrual cycle to identify your most fertile days."
+          },
+          {
+            "question": "How can I track ovulation?",
+            "answer": "Use methods like tracking basal body temperature, cervical mucus, and ovulation predictor kits."
+          },
+          {
+            "question": "What is the fertile window?",
+            "answer": "The fertile window includes the 5 days before ovulation and the day of ovulation."
+          },
+          {
+            "question": "How does cervical mucus change during ovulation?",
+            "answer": "It becomes clear, slippery, and stretchy, similar to egg whites."
+          },
+          {
+            "question": "Can irregular cycles make tracking harder?",
+            "answer": "Yes, tracking is less predictable with irregular cycles."
+          },
+          {
+            "question": "Do apps help with fertility tracking?",
+            "answer": "Yes, fertility apps can help track and predict fertile days."
+          },
+          {
+            "question": "How accurate are ovulation predictor kits?",
+            "answer": "They’re about 99% accurate when used correctly."
+          },
+          {
+            "question": "Is fertility awareness reliable for contraception?",
+            "answer": "It can be, but it requires careful tracking and daily awareness."
+          },
+          {
+            "question": "How long does the egg live after ovulation?",
+            "answer": "About 12–24 hours, so timing sex around ovulation is key for conception."
+          },
+          {
+            "question": "Does stress affect fertility awareness tracking?",
+            "answer": "Yes, stress and lifestyle changes can affect your cycle and tracking accuracy."
+          }
+        ]
+      },
+      {
+        "title": "Miscarriage Support & Resources",
+        "qa": [
+          {
+            "question": "What is a miscarriage?",
+            "answer": "A miscarriage is the loss of a pregnancy before 20 weeks."
+          },
+          {
+            "question": "What are common causes of miscarriage?",
+            "answer": "Most are due to chromosomal issues in the embryo and not something the parents did."
+          },
+          {
+            "question": "What are signs of a miscarriage?",
+            "answer": "Bleeding, cramping, and passing tissue from the vagina are common signs."
+          },
+          {
+            "question": "Can miscarriage be prevented?",
+            "answer": "Often, it can’t be prevented, but managing health conditions can reduce risk."
+          },
+          {
+            "question": "How is miscarriage diagnosed?",
+            "answer": "Through ultrasound and blood tests to check for pregnancy loss."
+          },
+          {
+            "question": "What support is available after miscarriage?",
+            "answer": "Counseling, support groups, and talking to loved ones can help cope."
+          },
+          {
+            "question": "Can I try to get pregnant again after miscarriage?",
+            "answer": "Yes, most can try again after 1–3 menstrual cycles, depending on doctor advice."
+          },
+          {
+            "question": "Are future pregnancies at higher risk after miscarriage?",
+            "answer": "Most women go on to have healthy pregnancies after miscarriage."
+          },
+          {
+            "question": "Should I have medical care after a miscarriage?",
+            "answer": "Yes, follow-up care ensures your health and checks for complications."
+          },
+          {
+            "question": "Can I grieve in my own way after miscarriage?",
+            "answer": "Yes, everyone’s experience is unique. Allow yourself to feel and seek support as needed."
+          }
+        ]
+      }
+    ]
+  }
+  
