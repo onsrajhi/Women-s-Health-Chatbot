@@ -1,10 +1,7 @@
 # Women’s Health Chatbot 🤖🌸
 
 This repository contains code, data, and deployment instructions to create a **domain-specific chatbot** focused on women’s health topics, including periods, pregnancy, breast cancer, menopause, fertility, and more.
-
 ![women's health](images/women's health.png)
-
-
 
 The chatbot is **fine-tuned on a custom dataset** using Hugging Face Transformers, and deployed via a **Gradio** web UI for easy interaction.
 
