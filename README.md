@@ -11,24 +11,36 @@ The chatbot is **fine-tuned on a custom dataset** using Hugging Face Transformer
 
 ---
 
-## 💡 Features
+## 💡 Overview
 
-✅ Fine-tuned language model for **empathetic, informative answers**  
-✅ Covers women’s health topics: periods, pregnancy, menopause, breast cancer, fertility, and mental health  
-✅ Deployed with Gradio for a **user-friendly web interface**  
-✅ Includes **disclaimer** to ensure safe AI usage  
-✅ Scalable for updates, expansion, and multi-language support  
+Model: DialoGPT (small/medium)
+
+Fine-tuning method: LoRA (memory-efficient parameter tuning)
+
+Dataset: Custom JSON file with question-answer pairs (small size ~10 KB)
+
+Goal: Make the chatbot respond based on the domain-specific dataset
 
 ---
 
-## 📁 Repository Structure
+## 💡 Important Notes
 
-```plaintext
-women-health-chatbot/
-├── data/
-│   └── final_women_health_chatbot_100.jsonl   # Dataset (Q&A format)
-├── fine_tune.py                               # Script to fine-tune the model
-├── app.py                                     # Gradio UI app
-├── requirements.txt                           # Python dependencies
-└── README.md                                  # Project documentation
+The dataset is very small (only a few examples). Fine-tuning a large model like DialoGPT on such a small dataset leads to overfitting and repeated answers.
+
+LoRA reduces training costs but cannot compensate for lack of data.
+
+For better results, use a larger dataset or consider retrieval-based approaches.
+
+DialoGPT is optimized for open-domain dialogue, so it may not perfectly fit closed-domain QA tasks.
+
+
+
+----
+## 💡 LImitations
+
+Small dataset causes limited generalization.
+
+Model may repeat answers or return unrelated responses.
+
+For production or better accuracy, increase dataset size or use retrieval-based models.
 
